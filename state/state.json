@@ -559,7 +559,417 @@
    "source": "CISA KEV",
    "note": "baseline at setup (KEV added 2026-11-06); not reviewed by the watcher",
    "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+   "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+   "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+   "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+   "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+   "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+   "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+   "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+   "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+   "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+   "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/cisa-oracle-e-business-suite-takeover-flaw/",
+   "title": "CISA Adds Actively Exploited Oracle E-Business Suite Takeover Flaw to KEV",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/f5-fixes-nginx-flaws-enabling-code-execution/",
+   "title": "F5 Fixes NGINX Flaws Enabling Code Execution, Memory Leaks and DoS Attacks",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/",
+   "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/weaponized-jpeg-images-exploitation-of-php-memory-flaws/",
+   "title": "Weaponized JPEG Images Could Enable Exploitation of PHP Memory Flaws",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hijacked-teams-deliver-modelorat/",
+   "title": "Threat Actors Use Hijacked Teams Accounts In ModeloRAT Attacks",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/vidar-campaign-steals-credentials/",
+   "title": "New Vidar Stealer Campaign Targets User Credentials",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/magecart-abuses-tag-manager/",
+   "title": "Magecart Campaign Uses Google Tag Manager To Steal Credit Card Data",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/tclbanker-spreads-through-whatsapp/",
+   "title": "Self-Propagating TCLBANKER Campaign Targets Users via WhatsApp and Outlook",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+   "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Dark web law-enforcement crackdown",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+   "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-central zero-day hotfixes; already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+   "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Cisco BroadWorks CVE-2026-20320 KEV; already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+   "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Windows SignDrop zero-day (CLFS); already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+   "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "PHP2Shell (CVE-2026-109618/CVE-2026-109619) + Check Point CVE-2026-123039 exploited; destructive wiper",
+   "advisory_id": "TA13112026.01",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+   "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-central 4EverAble2Shell zero-day exploited; already in baseline (BleepingComputer/THN), no advisory drafted",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+   "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "US seizes $1.2bn of Binance-stolen crypto",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+   "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Microsoft 365 outage, not security; baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
+   "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Apache HTTP/2 RCE; already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+   "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Chrome/Firefox 180+ fixes; Chrome covered in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
+   "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "High",
+   "note": "GitHub CI secret-stealer campaign; already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+   "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Notion/Fireworks breach; already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+   "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "High",
+   "note": "SCKit ScreenConnect campaign; already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+   "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-central zero-days; already in baseline, no advisory drafted",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+   "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Red Hat Quay flaw; already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+   "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Maersk breach (WhiteArmor); already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+   "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Xen Orchestra VSA-2026-062 auth bypass exploited, VSA-2026-063 unpatched; no CVE",
+   "advisory_id": "TA13112026.02",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+   "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Intel/AMD 200+ fixes (Intel CVE-2026-61887); no exploitation",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+   "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Outlook zero-day CVE-2026-124194 (KEV) Patch Tuesday; already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
+   "title": "Fortinet Patches Nearly 100 Vulnerabilities",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Fortinet ~100 fixes, no exploitation; FortiClient critical already in baseline",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+   "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Ivanti EPM CVE-2026-121653 (9.8), CSA CVE-2026-121683 (9.4); Citrix XenServer CVE-2026-102705; not exploited",
+   "advisory_id": "TA13112026.03",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
+   "title": "Microsoft Patches Exploited Entra ID Vulnerability",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+   "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Siemens ICS fixes, Node2Shell exposure",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+   "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
+   "title": "Critical Node-RED Flaw Exploited in Attacks",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "older than 2 days at first sight; not triaged",
+   "logged_at": "2026-11-13T15:06+05:30"
   }
  ],
- "ids": {}
+ "ids": {
+  "13112026": 3
+ }
 }
