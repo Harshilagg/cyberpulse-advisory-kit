@@ -482,6 +482,83 @@
    "source": "CyberPress",
    "note": "baseline at setup (13 Nov 2026 13:55 IST); not reviewed by the watcher",
    "logged_at": "2026-11-13T14:01+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-124194",
+   "title": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-10); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-111793",
+   "title": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-10); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-20320",
+   "title": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-10); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-111560",
+   "title": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-10); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-116606",
+   "title": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-10); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-125350",
+   "title": "Google Chromium Use-After-Free Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-10); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-102895",
+   "title": "GPUStack Improper Authentication Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-09); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-123158",
+   "title": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-09); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-116779",
+   "title": "SignalWire FreeSwitch Code Injection Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-09); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-123218",
+   "title": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-09); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-19868",
+   "title": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+   "source": "CISA KEV",
+   "note": "baseline at setup (KEV added 2026-11-06); not reviewed by the watcher",
+   "logged_at": "2026-11-13T14:16+05:30"
   }
  ],
  "ids": {}

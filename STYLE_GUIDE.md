@@ -53,3 +53,11 @@ Single sheet "IOCs", columns IOC Type | IOC (Defanged) | Context. Context starts
 "Arctic Wolf Labs: Alibaba Cloud host running AntiFox console". Types: IPv4, Domain, URL, Onion domain,
 MD5, SHA1, SHA256, Port, Email, File name. Defang: `1[.]2[.]3[.]4`, `hxxps://evil[.]com`, `evil[.]com`.
 Hashes are not defanged.
+
+## Sources the watcher checks
+- News homepages: The Hacker News, CyberPress, BleepingComputer, SecurityWeek.
+- CISA KEV via the GitHub mirror `cisagov/kev-data` (`known_exploited_vulnerabilities.json`); KEV items are stored in
+  state as `kev:<CVE-ID>`. A new KEV addition is at least High priority.
+- CERT-In vulnerability notes (CIVN-YYYY-NNNN): morning run only, best effort via web search.
+- Fetched only while drafting: vendor advisories, researcher blogs (Unit 42, Talos, Google Threat Intelligence/Mandiant,
+  Microsoft Threat Intelligence, Huntress, Arctic Wolf, Rapid7, watchTowr), IOC lists on GitHub.
