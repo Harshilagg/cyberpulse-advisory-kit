@@ -967,6 +967,69 @@
    "priority": "Low",
    "note": "older than 2 days at first sight; not triaged",
    "logged_at": "2026-11-13T15:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/check-point-php2shell-flaws/",
+   "title": "Hackers Exploit Check Point PHP2Shell Flaws to Gain Root Access and Deploy Wiper Malware",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "PHP2Shell CVE-2026-109618/CVE-2026-109619 + Check Point CVE-2026-123039; already covered by TA13112026.01 (found via search; homepage fetch blocked)",
+   "logged_at": "2026-11-13T16:59+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+   "title": "Check Point warns of zero-day flaw exploited for root access",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Check Point CVE-2026-123039 zero-day; already covered by TA13112026.01",
+   "logged_at": "2026-11-13T16:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+   "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "PHP2Shell CVE-2026-109618/CVE-2026-109619, Check Point CVE-2026-123039, TSGA backdoor; already covered by TA13112026.01",
+   "logged_at": "2026-11-13T16:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/new-n-able-n-central-zero-days/",
+   "title": "New N-able N-central Zero-Days Allow Root RCE and Windows SYSTEM Access After Patching",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-central 4EverAble2Shell zero-days; already in baseline, no advisory drafted",
+   "logged_at": "2026-11-13T16:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/six-danfoss-zero-day-flaws/",
+   "title": "Six Danfoss Zero-Day Flaws Allow Hackers to Hijack Refrigeration Controllers Without Login",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Danfoss refrigeration controller flaws (ICS); CVE IDs not checked",
+   "logged_at": "2026-11-13T16:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/aws-mcp-gateway-ssrf-flaw/",
+   "title": "AWS Fixes MCP Gateway SSRF Flaw Allowing Attackers to Access Internal Services",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "AWS MCP Gateway SSRF, fixed by AWS; CVE not checked",
+   "logged_at": "2026-11-13T16:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/europol-dismantles-three-major-malware-networks/",
+   "title": "Europol Dismantles Three Major Malware Networks, Seizes 235 Servers and 6.4 Million Stolen Records",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Europol malware infrastructure takedown; no CVE",
+   "logged_at": "2026-11-13T16:59+05:30"
   }
  ],
  "ids": {
