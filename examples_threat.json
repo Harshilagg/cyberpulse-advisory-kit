@@ -1,0 +1,12 @@
+{"type":"threat","id":"TA14112026.01","title":"Sample Campaign Title For Layout Testing","ioc_name":"Sample",
+"blocks":[
+{"h":"Executive Summary"},{"p":"Researchers report that **SampleActor** is doing something. Second sentence of plain text for wrapping across the line to test justification and spacing in the summary block."},
+{"kv":[["Threat","Sample value"],["Research","Vendor, 13 Nov 2026"],["Initial Access","Phishing"],["Business Impact","Data theft"]]},
+{"h":"Advisory Overview"},{"h3":"Why This Matters"},{"bullets":["**Lead One:** some explanation text here.","**Lead Two:** more text."]},
+{"h3":"Attack Chain"},{"bullets":["**Initial access**: step","**Execution**: step"]},
+{"h":"Targeted Environments"},{"bullets":["Plain bullet one","Plain bullet two"]},
+{"h":"Technical Analysis"},{"h3":"MITRE ATT&CK Mapping"},{"table":{"header":["Tactic","Technique","ID"],"rows":[["Initial Access","Phishing","T1566"],["Execution","PowerShell","T1059.001"]],"widths":[2,3,1]}},
+{"h3":"Threat Hunting"},{"code":{"label":"1. Office spawning PowerShell","lines":["DeviceProcessEvents","| where InitiatingProcessFileName in~ (\"winword.exe\")"]}},
+{"h":"Recommendations Action Steps"},{"h3":"Immediate Action"},{"numbered":["**Do X:** because.","**Do Y:** because."]},{"h3":"Hardening Recommendations"},{"numbered":["**Harden A:** text","**Harden B:** text"]},
+{"h":"References"},{"refs":[{"text":"https://example.com/a","url":"https://example.com/a"}]}],
+"iocs":[["IPv4","1[.]2[.]3[.]4","Vendor: C2"],["SHA256","abc","Vendor: loader"]]}
