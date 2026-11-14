@@ -1448,6 +1448,42 @@
    "priority": "Medium",
    "note": "Firefox <160, ESR <115.45/<153.7, Thunderbird; mfsa2026-124..129; no exploitation noted; Chrome/Firefox fixes already logged",
    "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+   "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "KEV adds 9 Nov (OpenSSH CVE-2026-123158, GPUStack CVE-2026-102895, FreeSWITCH CVE-2026-116779, IBM Aspera CVE-2026-123218); already in baseline, no new info; found via search (homepage fetch blocked)",
+   "logged_at": "2026-11-14T10:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-deploy-falcon-c2-malware/",
+   "title": "Hackers Deploy Falcon C2 Malware to Hijack Chrome Browsers and Steal Credentials",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Falcon C2 browser-hijack infostealer; no CVE; Falcon mentioned in 13 Nov baseline roundup; found via search (homepage fetch blocked)",
+   "logged_at": "2026-11-14T10:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+   "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Cisco BroadWorks CVE-2026-20320 + Openwave CVE-2026-111793, KEV 10 Nov; already in baseline, no new info; found via search",
+   "logged_at": "2026-11-14T10:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+   "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Chrome exploited zero-day (CVE not checked, article not fetched); Chrome zero-day emergency update already in baseline 13 Nov; found via search",
+   "logged_at": "2026-11-14T10:59+05:30"
   }
  ],
  "ids": {
