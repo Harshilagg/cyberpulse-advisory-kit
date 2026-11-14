@@ -1484,6 +1484,60 @@
    "priority": "High",
    "note": "Chrome exploited zero-day (CVE not checked, article not fetched); Chrome zero-day emergency update already in baseline 13 Nov; found via search",
    "logged_at": "2026-11-14T10:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/cisa-check-point-zero-day/",
+   "title": "CISA Warns of Actively Exploited Check Point Zero-Day Allowing Root Access",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Check Point CVE-2026-123039 KEV addition (13 Nov); already covered by TA13112026.01, KEV already logged; found via search (homepage fetch blocked)",
+   "logged_at": "2026-11-14T14:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/blacknevas-ransomware-vmware-esxi-servers/",
+   "title": "BlackNevas Ransomware Gang Destroys VMware ESXi Servers and Backups in 10-Day Attack",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "BlackNevas ransomware incident wiping ESXi and backups; no CVE noted; article not fetched (homepage fetch blocked), found via search",
+   "logged_at": "2026-11-14T14:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/uber-data-breach-fireworks-ai-attack/",
+   "title": "Uber Data Breach Exposes Thousands of Drivers' License Records in Fireworks AI Attack",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Uber driver licence data exposed via third-party (Fireworks AI) attack; no CVE; article not fetched, found via search",
+   "logged_at": "2026-11-14T14:59+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+   "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Chrome eighth exploited zero-day of 2026 (CVE not checked); already in baseline 13 Nov and logged 14 Nov 10:59, no advisory_id; found via search",
+   "logged_at": "2026-11-14T14:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+   "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Same Chrome exploited XML zero-day; already in baseline, no advisory_id; found via search",
+   "logged_at": "2026-11-14T14:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+   "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Zyxel GS1900 zero-day CVE-2026-107441 (~4 Nov), already logged as older; date not confirmed, found via search",
+   "logged_at": "2026-11-14T14:59+05:30"
   }
  ],
  "ids": {
