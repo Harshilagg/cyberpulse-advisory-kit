@@ -1538,6 +1538,123 @@
    "priority": "Low",
    "note": "Zyxel GS1900 zero-day CVE-2026-107441 (~4 Nov), already logged as older; date not confirmed, found via search",
    "logged_at": "2026-11-14T14:59+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+   "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "FBI: North Korean crypto theft via deepfake video calls (~$400M); same as FaceStealer item logged 14 Nov; no CVE",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+   "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "35k Grok-built apps exposed, some leaking data/passwords; AI app hygiene; no CVE",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+   "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+   "type": "Threat",
+   "priority": "High",
+   "note": "SCKit ScreenConnect MSP campaign (288 endpoints / 48 orgs); already in baseline and logged 13 Nov, no advisory_id, no new info; found via search (homepage fetch blocked)",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+   "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Critical Zoom Workplace unauthenticated flaw (CVE not checked, no exploitation reported); already in baseline 13 Nov, no advisory_id; found via search",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+   "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Fireworks AI breach widens (datasets, model weights, Notion chats); Fireworks/Notion already in baseline; no CVE",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "FBI Warns Hackers Are Using ARTEX AI Agents to Breach Networks in Under 3 Hours",
+   "url": "https://cyberpress.org/fbi-artex-ai-agents-breach-networks/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "FBI warning on China-linked ARTEX AI attack framework; campaign first reported late Oct (200+ orgs); no CVE; found via search",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Chinese-Linked Hackers Use ARTEX AI Agents to Target AI Platforms and Crypto Exchanges",
+   "url": "https://cyberpress.org/chinese-linked-artex-ai-agents/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "ARTEX AI framework used by another China-linked group vs AI platforms/crypto exchanges; no CVE; found via search",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Critical Red Hat Quay Vulnerability Allows Hackers to Hijack Private Container Registries",
+   "url": "https://cyberpress.org/critical-red-hat-quay-flaw/",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Red Hat Quay flaw; already in baseline / logged Medium 13 Nov",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "New Citrus Ransomware Uses AI-Generated Scripts to Hijack Windows Networks and Disable Antivirus Protection",
+   "url": "https://cyberpress.org/citrus-ransomware-disables-antivirus/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Citrus ransomware with AI-generated scripts, targets Russian businesses (reported ~11 Nov); no CVE",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Windows 10 ESU KB5131096 (Nov Patch Tuesday); Outlook zero-day already logged",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+   "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "KEV 9 Nov CVE-2026-123218 Aspera Faspex, CVE-2026-116779 FreeSWITCH; already in baseline/logged, no advisory_id, no new info",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+   "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "FAA ground stop; no signs of hacking",
+   "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+   "url": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/amp/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "October 2026 Patch Tuesday (1,413 flaws) - older than 2 days; not triaged",
+   "logged_at": "2026-11-14T19:02+05:30"
   }
  ],
  "ids": {
