@@ -1075,6 +1075,379 @@
    "priority": "Low",
    "note": "Zyxel GS1900 zero-day CVE-2026-107441; older than 2 days at first sight (~4 Nov); not triaged",
    "logged_at": "2026-11-13T19:26+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/microsoft-365-outage/",
+   "title": "Microsoft 365 Outage Disrupts Outlook, Teams, Copilot and Defender XDR Worldwide",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Microsoft 365 outage (13 Nov); service disruption, not a security incident; outage already in baseline",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/fbi-disrupts-north-korean-facestealer-attacks/",
+   "title": "FBI Disrupts North Korean FaceStealer Attacks Linked to $400 Million in Crypto Theft",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "FBI disrupts North Korean FaceStealer crypto-theft activity (~$400M); crypto/individual targeting",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/openai-launches-ai-security-agents/",
+   "title": "OpenAI Launches AI Security Agents to Find Vulnerabilities, Test Exploits and Fix Flaws",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "OpenAI AI security agents product launch; not a threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/store-signed-app-hijacks-browsers/",
+   "title": "Hackers Abuse Microsoft Store-Signed Net Guard App to Hijack Browsers Through Fake AI Websites",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Microsoft Store-signed Net Guard app hijacks browsers via fake AI sites; consumer/endpoint hygiene",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/sansar-rootkit-hides-cryptomining/",
+   "title": "Hackers Deploy SANSAR Rootkit to Hide Cryptocurrency Mining on Linux AI Servers",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "SANSAR rootkit hides cryptomining on Linux AI servers; no CVE",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-hijack-sql-servers/",
+   "title": "Microsoft SQL Servers Under Attack as Hackers Deploy Gh0st RAT and Monero Mining Malware",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Exposed MS SQL servers hit with Gh0st RAT and Monero miners; weak-credential targeting",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/xloader-phishing-targets-employees/",
+   "title": "New XLoader Phishing Campaign Tricks Employees Into Opening Malicious Microsoft Word Documents",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "XLoader phishing via malicious Word documents; commodity malware",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/ghostframe-malwarevmware-esxi/",
+   "title": "New GhostFrame Malware Lets Hackers Hijack VMware ESXi Virtual Machines and Steal Windows Credentials",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "GhostFrame ESXi post-exploitation framework (Insikt Group, TAG-218/Settra ransomware); published 11 Nov - older than 2 days; no CVE",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/node-js-fixes-16-security-flaws/",
+   "title": "Node.js Fixes 16 Security Flaws Allowing Hackers to Crash Servers and Leak Sensitive Data",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Node.js 16 fixes incl. HTTP/2 DoS; already in baseline (THN)",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/revstealer-masquerades-as-claude/",
+   "title": "Hackers Disguise RevStealer as Claude Opus 5 AI App to Steal Passwords, Crypto Wallets, and Gaming Accounts",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "RevStealer infostealer posing as AI app; consumer lure",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-fortinet-flaws/",
+   "title": "Critical Fortinet Flaws Allow Hackers to Execute Code on FortiManager and FortiAnalyzer Without Login",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "FortiManager/FortiAnalyzer pre-auth CVE-2026-126170 (9.8), CVE-2026-126262 (9.3), CVE-2026-126261, CVE-2026-126260; not known exploited; published 11 Nov; Fortinet patch set already logged (Medium)",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/mcp-changes-enable-attacks/",
+   "title": "MCP Servers Silently Change Dependencies Without User Approval, Exposing AI Agents to Supply Chain Attacks",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "MCP servers changing dependencies silently; research/supply-chain risk to AI agents",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/apple-fixes-imessage-flaws/",
+   "title": "Apple Fixes iMessage Flaws That Could Let Hackers Secretly Join Group Chats and Read Messages",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Apple iMessage group-chat flaws fixed; no exploitation reported",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/n-able-takes-n-central-servers-offline/",
+   "title": "N-able Takes N-central Servers Offline After 33 Critical Vulnerabilities Are Disclosed",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-central 33 critical flaws / servers taken offline; N-central zero-days already in baseline, no advisory_id",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/over-240000-attacks-wordpress-core/",
+   "title": "Hackers Launch Over 240,000 Attacks Targeting WordPress Core Remote Code Execution Flaw",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "WordPress core CVE-2026-119977 upgrade-window RCE, 240k+ attempts (Wordfence); published 7 Nov - older than 2 days; KEV since 3 Nov",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/beast-ransomware-disrupts-recovery/",
+   "title": "Researchers Uncover Beast Ransomware Targeting 73 Windows Services and 52 Processes to Disrupt Recovery",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Beast ransomware kills 73 services / 52 processes to hinder recovery",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+   "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Trezor confirms crypto-stealing implants in three wallets; fix released",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+   "title": "German military drone operations disrupted by cyberattack",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Cyberattack disrupted German military drone operations; details limited",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+   "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "PHP2Shell CVE-2026-109618/CVE-2026-109619 + Check Point CVE-2026-123039 ESXi wiper; already covered by TA13112026.01",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+   "title": "Microsoft says November security updates cause printing issues",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Nov Windows updates cause printing issues; operational",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+   "title": "Microsoft confirms Windows activation failures after November updates",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Nov Windows updates cause activation failures; operational",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
+   "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
+   "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Opinion on NetScaler zero-days",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/amplifier-security-emerges-from-stealth-with-ai-copilot-human-in-the-loop-automation/",
+   "title": "Amplifier Security Emerges From Stealth With AI Copilot, Human-in-the-Loop Automation",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+   "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+   "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
+   "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
+   "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+   "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
+   "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/",
+   "title": "500,000 Active Credentials Left Exposed on GitHub",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "500k active credentials exposed on GitHub; secrets-hygiene",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+   "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
+   "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Industry/business or opinion piece; no actionable threat",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+   "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Microsoft cloud/AI service fixes (18); server-side, no customer action noted",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+   "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "French blood bank website cyberattack; limited impact",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-114713",
+   "title": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-114713 UnrealIRCd, new KEV 13 Nov, due 16 Nov, ransomware Unknown; vendor/NVD pages failed to load; not drafted (kit templates unreachable)",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-123039",
+   "title": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-123039 Check Point, new KEV 13 Nov, due 16 Nov; already covered by TA13112026.01",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0545",
+   "title": "CIVN-2026-0545: Remote Code Execution Vulnerability in WordPress",
+   "source": "CERT-In",
+   "severity": "High",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-119977 WordPress core, actively exploited; issued 12 Nov; KEV since 3 Nov; WordPress entry already in state (no advisory_id)",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0546",
+   "title": "CIVN-2026-0546: Authorization Bypass Vulnerability in IBM Aspera Faspex",
+   "source": "CERT-In",
+   "severity": "Critical",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-123218 Aspera Faspex 5.0.0-5.0.19, exploited; KEV 9 Nov in baseline (no advisory_id)",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0547",
+   "title": "CIVN-2026-0547: Multiple Vulnerabilities in Ivanti Connect Secure (ICS)",
+   "source": "CERT-In",
+   "severity": "High",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-111357, CVE-2026-118527, CVE-2026-104935 ICS, actively exploited; issued 12 Nov but CVEs in KEV since 13/30 Oct - older incident",
+   "logged_at": "2026-11-14T08:53+05:30"
+  },
+  {
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0548",
+   "title": "CIVN-2026-0548: Multiple Vulnerabilities in Mozilla Products",
+   "source": "CERT-In",
+   "severity": "High",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Firefox <160, ESR <115.45/<153.7, Thunderbird; mfsa2026-124..129; no exploitation noted; Chrome/Firefox fixes already logged",
+   "logged_at": "2026-11-14T08:53+05:30"
   }
  ],
  "ids": {
