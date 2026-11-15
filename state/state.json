@@ -1443,10 +1443,10 @@
    "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0548",
    "title": "CIVN-2026-0548: Multiple Vulnerabilities in Mozilla Products",
    "source": "CERT-In",
-   "severity": "High",
+   "severity": "HIGH",
    "type": "Vulnerability",
-   "priority": "Medium",
-   "note": "Firefox <160, ESR <115.45/<153.7, Thunderbird; mfsa2026-124..129; no exploitation noted; Chrome/Firefox fixes already logged",
+   "priority": "High",
+   "note": "CERT-In HIGH, 13 Nov; Firefox <160, ESR <115.45/<153.7, Thunderbird; mfsa2026-124..129; no exploitation; Firefox fixes already logged 13 Nov (no advisory)",
    "logged_at": "2026-11-14T08:53+05:30"
   },
   {
@@ -1655,9 +1655,229 @@
    "priority": "Low",
    "note": "October 2026 Patch Tuesday (1,413 flaws) - older than 2 days; not triaged",
    "logged_at": "2026-11-14T19:02+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Cursor 13 Nov investigation: Fireworks AI key -> agent traces -> creds -> backdoored Anthropic.claude-code 2.1.312/2.1.313 in Cursor marketplace cache (29 Oct); no CVE",
+   "advisory_id": "TA15112026.01",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+   "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "DPRK FaceStealer crypto theft disrupted; same as logged FaceStealer items",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/massive-cyberattack-wave-hits-japan/",
+   "title": "Massive Cyberattack Wave Hits Japan, Exposing Millions of Customer Records",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "233 Japanese incidents disclosed Oct 2026 (Nitori, Arara, Cuenote); statistics, no CVE",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/google-gemini-safety-download-images-blocked/",
+   "title": "Google Gemini Safety Bypass Allowed Users to Download Images Blocked by AI Guardrails",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Gemini download-endpoint guardrail bypass, fixed by Google; published 9 Nov, older than 2 days",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+   "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "SAP Nov Patch Day (10 Nov), CVE-2026-76964, CVE-2026-89126, CVE-2026-89103, CVE-2026-120017 all CVSS 10.0 unauth; no exploitation; older than 2 days at first sight",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-weaponize-ai-tools/",
+   "title": "Hackers Abuse Claude Code and Other AI Developer Tools to Spread Malware and Establish Backdoors",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Recorded Future yearly review of 103 AI-enabled incidents (LiteLLM, Shai-Hulud); not the Cursor incident; 12 Nov",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/ai-agents-enable-cyberespionage/",
+   "title": "Hackers Use Autonomous AI Agents to Access Over 1 Million Records in Cyberespionage Campaign",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Unit 42 CL-STA-1238 (China-nexus) used Cairn AI pentest framework Aug-Sep 2026, 10 orgs breached; CVEs not named",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-maintain-gsocket-backdoors/",
+   "title": "Hackers Abuse GSocket to Maintain Hidden Access to Linux Servers Even After Security Flaws Are Fixed",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Microsoft: GSocket persistence after web-app RCE, some use CVE-2026-43284 (Dirty Frag); GSocket already in 13 Nov baseline",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/seven-neurons-backdoor-ai/",
+   "title": "Microsoft Reveals How Hackers Could Backdoor AI Models by Modifying Just 7 Neurons to Execute Malicious Commands",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Microsoft research on AI model-weight backdoors; no active campaign",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/forgerock-security-flaws/",
+   "title": "ForgeRock Security Flaws Could Let Attackers Remotely Control Cars Without Owner Permission",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Researcher chain (path normalisation + default Felix console creds) on automaker ForgeRock servers; no CVE; 10 Nov",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+   "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "CVE-2026-6460 (8.8) authenticated RCE, crash PoC public, no exploitation; CVE-2026-116322 unauth restart PG18; fixed 18.7/17.12/16.16/15.20/14.25",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+   "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "AMD SEV-SNP research attacks needing malicious host; firmware fixes staggered; CVEs not checked",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+   "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Trezor Safe 5 hardware implants via reseller; same as logged BleepingComputer item",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+   "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Enea: SilentAir state-level telecom interception, mainly Taiwan; disrupted",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+   "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Law-enforcement takedown; already logged via BleepingComputer/Europol",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+   "title": "FAA Ground Stop Issued Due to 'Extraordinary Circumstances'",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "FAA outage; no sign of cyberattack",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+   "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Weekly roundup",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+   "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Microsoft 365 outage; not a security incident",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+   "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Apify breach 9-10 Nov via compromised credential; 2FA recovery codes and Google/GitHub sign-in tokens exposed; Apify already in baseline",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+   "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same SilentAir telecom espionage as THN",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
+   "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Operation Endgame takedown; already logged",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+   "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Product launch; not a threat",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0549",
+   "title": "CIVN-2026-0549: Information Disclosure Vulnerability in eMudhra emBridge",
+   "source": "CERT-In",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "CERT-In LOW, 13 Nov; CVE-2026-125659, LAN file-name enumeration; fixed Win 5.9.4.x, macOS 3.2.7.x, Linux 3.3.1.x",
+   "severity": "LOW",
+   "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0550",
+   "title": "CIVN-2026-0550: Multiple Vulnerabilities in Barracuda Products",
+   "source": "CERT-In",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CERT-In HIGH, 13 Nov; CVE-2026-116606, CVE-2026-111560 (both in CISA KEV 10 Nov, baseline only, no advisory)",
+   "severity": "HIGH",
+   "logged_at": "2026-11-15T08:59+05:30"
   }
  ],
  "ids": {
-  "13112026": 3
+  "13112026": 3,
+  "15112026": 1
  }
 }
