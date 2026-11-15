@@ -2027,6 +2027,15 @@
    "priority": "Low",
    "note": "Opinion/analysis piece; no incident (found via search)",
    "logged_at": "2026-11-15T15:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+   "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-central 33 zero-days / cloud taken offline; same story as CyberPress item logged 14 Nov, baseline-covered, no advisory_id; older than 2 days; found via search (homepage fetch blocked)",
+   "logged_at": "2026-11-15T17:00+05:30"
   }
  ],
  "ids": {
