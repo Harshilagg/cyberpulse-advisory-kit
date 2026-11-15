@@ -1991,6 +1991,42 @@
    "priority": "Low",
    "note": "CVE-2026-19868 SonicOS SAML/MFA bypass, KEV 6 Nov (baseline); story from ~6-7 Nov, older than 2 days (found via search; homepage fetch blocked)",
    "logged_at": "2026-11-15T12:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+   "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "eMudhra CA revocations after key compromise; same story already logged from BleepingComputer (found via search; homepage fetch blocked)",
+   "logged_at": "2026-11-15T15:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+   "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Git 2.56.1 fixes six flaws incl. CVE-2026-111760 code execution on recursive clone of malicious repo; user interaction needed, no exploitation reported (found via search; homepage fetch blocked)",
+   "logged_at": "2026-11-15T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-xen-orchestra-authentication-bypass/",
+   "title": "Hackers Exploit Critical Xen Orchestra Authentication Bypass to Take Over Virtualization Hosts",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Xen Orchestra VSA-2026-062 auth bypass exploited (no CVE); already covered by TA13112026.02, no new info (found via search)",
+   "logged_at": "2026-11-15T15:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+   "title": "Is AI Making Us Worse at Cybersecurity?",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Opinion/analysis piece; no incident (found via search)",
+   "logged_at": "2026-11-15T15:03+05:30"
   }
  ],
  "ids": {
