@@ -1874,6 +1874,114 @@
    "note": "CERT-In HIGH, 13 Nov; CVE-2026-116606, CVE-2026-111560 (both in CISA KEV 10 Nov, baseline only, no advisory)",
    "severity": "HIGH",
    "logged_at": "2026-11-15T08:59+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-114713 (8.6) UnrealIRCd 6.0.0-<6.2.7.1, exploited ~1 day after 7 Nov hotfix per maintainer; KEV 13 Nov already logged 14 Nov, no advisory_id; not drafted (already covered); 14 Nov; found via search",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Xen Orchestra VSA-2026-062 auth bypass exploited (no CVE); already covered by TA13112026.02; found via search",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+   "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "NEAR AI breach via SGLang RCE (no CVE), ~8 Nov; published 10 Nov, older than 2 days",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "BTCPay Server <=2.4.1 hot-wallet thefts (no CVE); published 3 Nov, older than 2 days",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "CVE-2026-58115 (10.0) SIMATIC IoT2050 Node-RED exploited since 30 Oct (VulnCheck); published 3 Nov, older than 2 days",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+   "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "CVE-2026-20320 BroadWorks, CVE-2026-111793 Openwave (KEV 10 Nov); already logged, no new info",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+   "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "CVE-2026-19868 SonicOS SAML bypass, KEV 6 Nov (baseline); published 7 Nov, older than 2 days",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+   "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Barracuda CVE-2026-116606, CVE-2026-111560 (KEV 10 Nov); already logged, older",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+   "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "OpenAI research, 948 Linux LPE exploits; already in baseline 13 Nov",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Plex2Shell Exploited Against QNAP NAS Users",
+   "url": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Plex2Shell CVE-2026-96652/96654/96655/96656 on QNAP Plex, fixed 1.43.3; published 9 Nov, older than 2 days",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Hackers Could Exploit React Server Components Flaw to Execute Malicious Code on Servers",
+   "url": "https://cyberpress.org/exploit-react-server-components-flaw/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "React RSC GHSA-xqc2-xf4c-x3h3 (no CVE), fixed 19.0.9/19.1.10/19.2.9/19.3.1, not exploited; published 9 Nov, older than 2 days",
+   "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Critical OpenSSH Authentication Bypass Lets Hackers Log In Without Knowing Passwords",
+   "url": "https://cyberpress.org/critical-openssh-authentication/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "OpenSSH long-password auth bypass (Alpine); already in baseline 13 Nov; article not fetched",
+   "logged_at": "2026-11-15T11:01+05:30"
   }
  ],
  "ids": {
