@@ -1982,6 +1982,15 @@
    "priority": "Low",
    "note": "OpenSSH long-password auth bypass (Alpine); already in baseline 13 Nov; article not fetched",
    "logged_at": "2026-11-15T11:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+   "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "CVE-2026-19868 SonicOS SAML/MFA bypass, KEV 6 Nov (baseline); story from ~6-7 Nov, older than 2 days (found via search; homepage fetch blocked)",
+   "logged_at": "2026-11-15T12:59+05:30"
   }
  ],
  "ids": {
