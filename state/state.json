@@ -2153,6 +2153,78 @@
    "priority": "Low",
    "note": "Apple Secure Exclaves architecture write-up; no vulnerability",
    "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "title": "Critical Apache Shiro and APISIX Flaws Let Hackers Bypass Authentication Without Login",
+   "url": "https://cyberpress.org/critical-apache-shiro-apisix-flaws/",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Apache Shiro + APISIX pre-auth authentication bypass, CVE IDs not confirmed; NOT drafted - article unreadable, needs manual review; found via search (homepage+article fetch blocked); publish date not confirmed; not read",
+   "logged_at": "2026-11-16T19:04+05:30"
+  },
+  {
+   "title": "Critical Apple Zero-Day Bypasses Microphone Permissions and Recording Indicators",
+   "url": "https://cyberpress.org/critical-apple-zero-day-bypasses/",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Apple 'zero-day' mic permission/indicator bypass, CVE and exploitation status not confirmed; NOT drafted - needs manual review; found via search (homepage+article fetch blocked); publish date not confirmed; not read",
+   "logged_at": "2026-11-16T19:04+05:30"
+  },
+  {
+   "title": "11-Year-Old Linux Kernel Flaw NoisyTCP Lets Hackers Remotely Crash Servers Without Login",
+   "url": "https://cyberpress.org/11-year-old-linux-kernel-flaw/",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "NoisyTCP Linux kernel remote DoS (no CVE confirmed); found via search (homepage+article fetch blocked); publish date not confirmed; not read",
+   "logged_at": "2026-11-16T19:04+05:30"
+  },
+  {
+   "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+   "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "NoisyTCP Linux kernel remote DoS; same incident as CyberPress; found via search (homepage+article fetch blocked); publish date not confirmed; not read",
+   "logged_at": "2026-11-16T19:04+05:30"
+  },
+  {
+   "title": "Old USB Worm Retadup Resurfaces, Targeting 15,000 Systems With New CoffeeLoader Malware Campaign",
+   "url": "https://cyberpress.org/retadup-returns-delivering-coffeeloader/",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Retadup worm delivering CoffeeLoader; found via search (homepage+article fetch blocked); publish date not confirmed; not read",
+   "logged_at": "2026-11-16T19:04+05:30"
+  },
+  {
+   "title": "New LOTUSLITE V2 Malware Abuses Signed PDFgear Executable to Deploy Malicious DLLs",
+   "url": "https://cyberpress.org/lotuslite-v2-abuses-pdfgear/",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "LOTUSLITE V2 DLL side-loading via signed PDFgear; found via search (homepage+article fetch blocked); publish date not confirmed; not read",
+   "logged_at": "2026-11-16T19:04+05:30"
+  },
+  {
+   "title": "Microsoft Reveals Windows Bug That Crashed Over 80% of Servers During Microsoft 365 Outage",
+   "url": "https://cyberpress.org/microsoft-reveals-windows-bug/",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Windows bug behind M365 outage (reliability, not security); found via search (homepage+article fetch blocked); publish date not confirmed; not read",
+   "logged_at": "2026-11-16T19:04+05:30"
+  },
+  {
+   "title": "Apple Introduces Secure Exclaves to Block Unauthorized Camera and Microphone Access",
+   "url": "https://cyberpress.org/apple-introduces-secure-exclaves/",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Apple security feature announcement; found via search (homepage+article fetch blocked); publish date not confirmed; not read",
+   "logged_at": "2026-11-16T19:04+05:30"
   }
  ],
  "ids": {
