@@ -2036,6 +2036,123 @@
    "priority": "Critical",
    "note": "N-central 33 zero-days / cloud taken offline; same story as CyberPress item logged 14 Nov, baseline-covered, no advisory_id; older than 2 days; found via search (homepage fetch blocked)",
    "logged_at": "2026-11-15T17:00+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+   "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Amazon Threat Intelligence: China-linked ARTEX AI agents hunt exposed LiteLLM/Dify/Langflow/RAGFlow for provider API keys (CVE-2025-3248, CVE-2026-28797); outcomes unverified; ARTEX already logged Medium 14 Nov, no advisory",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+   "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Kaspersky ICS CERT: BO Team used Log4Shell (CVE-2021-44228) on vCenter 7.0.3 to reach a Russian developer's code-signing server; single victim, old CVE",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+   "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Italian privacy fine against Meta; not a threat",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Cursor/Fireworks incident already covered by TA15112026.01 (5,000 users, SSH key backdoor, data types already included); no new CVE/IOCs",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/cursor-data-breach/",
+   "title": "Cursor Data Breach Exposes Customer Credentials, 5,000 Developers at Risk From Malware",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Cursor/Fireworks incident already covered by TA15112026.01; no new CVE/IOCs",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/aws-resolves-us-east-1-outage/",
+   "title": "AWS Resolves US-EAST-1 Outage After Authentication Failures Disrupt 11 Cloud Services",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "AWS US-EAST-1 outage resolved; not a security incident",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/claude-ai-hacks-32-year-old/",
+   "title": "Claude AI Hacks 32-Year-Old Jeep Engine Computer Using a $3 Arduino",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Research stunt on old Jeep ECU; no enterprise impact",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/poisoned-nx-extension-steals/",
+   "title": "Hackers Poison VS Code Nx Console Extension to Steal GitHub Tokens and Internal Source Code",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Published 10 Nov (TeamPCP Nx Console / GitHub internal repos); older than 2 days; not triaged",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/dprk-launders-binance-funds/",
+   "title": "North Korea Creates Disposable Crypto Tokens to Make Binance Hack Funds Look Like Trading Profits",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "DPRK laundering of Binance-stolen funds via disposable tokens; no enterprise action",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/chinese-hackers-deploy-sparrow/",
+   "title": "Chinese Hackers Target Government and Telecom Networks With Previously Unknown Sparrow Malware Backdoors",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Published 11 Nov (Check Point Research, CopperDragon Sparrow framework); older than 2 days; not triaged",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+   "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "US policy news; not a threat",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+   "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Italian privacy fine against Meta; not a threat",
+   "logged_at": "2026-11-16T14:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+   "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Apple Secure Exclaves architecture write-up; no vulnerability",
+   "logged_at": "2026-11-16T14:59+05:30"
   }
  ],
  "ids": {
