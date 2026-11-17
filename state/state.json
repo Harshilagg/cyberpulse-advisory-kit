@@ -2306,10 +2306,210 @@
    "priority": "Low",
    "note": "OOB fix for Nov update activation failures; operational; found via search",
    "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/microsoft-warns-microsoft-365-outage/",
+   "title": "Microsoft Warns Hackers Are Exploiting Microsoft 365 Outage to Launch Phishing Attacks",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Phishing lures abusing Microsoft 365 outage; no CVE",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/kingsoft-side-loading-delivers-purerat/",
+   "title": "Hackers Abuse Legitimate Kingsoft Software to Load PureRAT Malware Through DLL Side-Loading",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "PureRAT delivered via DLL side-loading of legitimate Kingsoft software; no CVE",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/artex-linked-hackers-target-secrets/",
+   "title": "Hackers Target Cloud Secrets and Cryptocurrency Wallets in ARTEX-Linked Barracuda Intrusion",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Barracuda disclosed intrusion 1-2 Nov via leaked cloud key in third-party AI vendor repo, ARTEX tooling; no CVE; Barracuda blog 10-13 Nov",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/gootloader-poisons-google-searches/",
+   "title": "Hackers Poison Google Search Results With Fake Legal Documents to Infect Windows Systems With Gootloader",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Gootloader SEO poisoning with fake legal documents; no CVE",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/attackers-target-screenconnect-msps/",
+   "title": "688,000 Malicious File Requests Target 42 MSP ScreenConnect Servers in Active Attack Campaign",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-84869 ScreenConnect host-client flaw (KEV 11 Sep) exploited vs MSP technicians: Huntress 688k guest run-file requests, 42 MSP servers, 1 compromise 12 Nov; distinct from SCKit",
+   "advisory_id": "TA17112026.01",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-exploit-old-bitly-urls/",
+   "title": "Hackers Exploit Old Bitly URLs to Redirect Corporate Social Media Posts to Unrelated Websites",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Expired/old Bitly links hijacked to redirect corporate social posts; no CVE",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/claude-code-memory-hijacked/",
+   "title": "Claude Code Memory Can Be Abused to Hijack AI Agents and Execute Malicious Commands",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Lab demo: Claude memory stores as C2 after device+credential compromise; no vuln, not seen in wild",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/fake-docs-spread-phantom53/",
+   "title": "Hackers Use Fake Google Docs Pages to Infect Windows Systems With Stealthy Phantom53 Malware",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "SOCRadar: XaocMail ClickFix fake document pages deliver Phantom53/Havoc, mainly LatAm, also India; no CVE",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/virustotal-integrates-with-claude-ai/",
+   "title": "VirusTotal Integrates With Claude AI to Detect Malware and Analyze Suspicious Files Through MCP",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Product integration news; not a threat",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/ai-uncovers-linux-vulnerability/",
+   "title": "Microsoft AI Uncovers Linux Kernel Flaw That Lets Attackers Gain Root Access on Linux and Android",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Microsoft MDASH Linux kernel findings (33 CVEs incl. CVE-2026-64563 root LPE); published 12 Nov, older than 2 days",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/grok-powered-arcticrat-steals-otps/",
+   "title": "New ArcticRAT Android Malware Uses Grok AI to Steal Banking OTPs and Hijack Smartphones Remotely",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Zimperium ArcticRAT Android RAT using Grok API; published 13 Nov, older than 2 days",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/extrahop-detects-artex-spread/",
+   "title": "ExtraHop Finds 3,447 ARTEX Hosts as Autonomous AI Hacking Frameworks Spread Across the Internet",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "ExtraHop 3,447 ARTEX hosts; ARTEX already logged; date not shown",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/antifox-enables-aws-breaches/",
+   "title": "Hackers Use AntiFox AI Hacking Tool to Compromise AWS Cloud Environments and Steal Sensitive Data",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "AntiFox AWS attacks; already in baseline 13 Nov",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+   "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Weekly roundup",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+   "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Six unpatched Danfoss refrigeration controller flaws (ICS); already logged 13 Nov from another site",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+   "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Retadup/CoffeeLoader; already logged 16 Nov",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+   "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Opinion piece, 13 Nov",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+   "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Automaker research (default creds); date not shown, older top story",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+   "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "AntiFox; already in baseline 13 Nov",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+   "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "iOS 26/27 'worse_query' sandbox escape, no CVE, no fix confirmed, no exploitation; published 10 Nov, older than 2 days",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+   "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "SAP Nov Patch Day CVSS 10 flaws; already logged 15 Nov from another site",
+   "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+   "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Older weekly roundup",
+   "logged_at": "2026-11-17T13:06+05:30"
   }
  ],
  "ids": {
   "13112026": 3,
-  "15112026": 1
+  "15112026": 1,
+  "17112026": 1
  }
 }
