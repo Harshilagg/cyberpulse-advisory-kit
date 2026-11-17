@@ -2225,6 +2225,87 @@
    "priority": "Low",
    "note": "Apple security feature announcement; found via search (homepage+article fetch blocked); publish date not confirmed; not read",
    "logged_at": "2026-11-16T19:04+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+   "url": "https://bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Optimizely supply-chain attack (reported as 'OptimJack' skimmer): card/crypto-stealing JS served to ~180-190 customer sites (CNN, BBC, Zoom, Salesforce) via signup flaw; no CVE; found via search, articles not fetchable this run (WebFetch permission prompts unanswered) so NOT drafted",
+   "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Fandango says hackers stole payment card details from checkout pages",
+   "url": "https://bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Fandango checkout-page card skimming; possible link to Optimizely campaign not confirmed (article not fetched); found via search",
+   "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+   "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "CVE-2026-114713 UnrealIRCd exploitation; already logged 14-15 Nov (KEV + THN), no new info seen; found via search",
+   "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+   "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Google threat intel report: AI agents used for patch-diff n-day exploit development; no CVE; found via search",
+   "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Google warns that fully-automated AI attacks are coming soon",
+   "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Same Google AI-attacks report as THN item; found via search",
+   "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+   "url": "https://bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Gemini agent safeguard-bypass research; no CVE; found via search",
+   "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+   "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "SANSAR cryptominer already logged 14 Nov (CyberPress); found via search",
+   "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+   "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Insider/legal news; no enterprise threat; found via search",
+   "logged_at": "2026-11-17T10:59+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "OOB fix for Nov update activation failures; operational; found via search",
+   "logged_at": "2026-11-17T10:59+05:30"
   }
  ],
  "ids": {
