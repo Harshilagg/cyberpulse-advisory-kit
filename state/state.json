@@ -2559,6 +2559,159 @@
    "priority": "Low",
    "note": "SAP ICM2SHELL CVE-2026-76964, CVE-2026-89126 (Nov Patch Day 10 Nov, Onapsis); already logged 15 Nov; no exploitation reported; found via search",
    "logged_at": "2026-11-17T15:00+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+   "url": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+   "type": "Policy",
+   "priority": "Low",
+   "note": "US AI export-control policy news; not a threat",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cursor Supply Chain Attack Started at Fireworks AI",
+   "url": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Cursor/Fireworks AI incident already covered by TA15112026.01; no new CVE/IOCs",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+   "url": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
+   "type": "Policy",
+   "priority": "Low",
+   "note": "Project Zero disclosure deadline change to 30 days; not a threat",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
+   "url": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Barracuda cloud intrusion linked to ARTEX AI framework; already logged 17 Nov, no CVE",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+   "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Telegram widgets RCE demos and malware warning after launch; no CVE, consumer platform",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Uber Data Breach Impacts 150,000 People",
+   "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Uber driver data breach (~150k), third-party (Fireworks AI) link; already logged",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+   "url": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Tor relay DoS defences update; no enterprise impact",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+   "url": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "M365 outage not a cyberattack; phishing lures abusing outage already logged",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+   "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+   "type": "Legal",
+   "priority": "Low",
+   "note": "Court ruling on Ethereum MEV heist case; not a threat",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+   "type": "Legal",
+   "priority": "Low",
+   "note": "Alleged INC/Lynx ransomware affiliate extradited; law enforcement news",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+   "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+   "type": "Policy",
+   "priority": "Low",
+   "note": "Project Zero 30-day disclosure deadline; same story as SecurityWeek",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+   "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+   "type": "Legal",
+   "priority": "Low",
+   "note": "California lawsuit against OpenAI over AI agent incidents; legal news",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Barracuda cloud breach linked to ARTEX; already logged 17 Nov, no CVE",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+   "type": "Operational",
+   "priority": "Low",
+   "note": "M365 outage root cause (software bug); not a security incident",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+   "type": "Operational",
+   "priority": "Low",
+   "note": "Windows Server 2016 end of support in 60 days; planning item",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Australian retail giant Coles investigates cybersecurity incident",
+   "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Coles (Australia) investigating cyber incident; details not disclosed, no CVE",
+   "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+   "type": "Industry",
+   "priority": "Low",
+   "note": "AI model release news; not a threat",
+   "logged_at": "2026-11-17T19:01+05:30"
   }
  ],
  "ids": {
