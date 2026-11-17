@@ -2505,6 +2505,60 @@
    "priority": "Low",
    "note": "Older weekly roundup",
    "logged_at": "2026-11-17T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+   "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Optimizely supply-chain skimmer (no CVE); same incident logged earlier, no advisory_id; new detail: iOS exploit kits also served. Not drafted: articles not fetchable (WebFetch permission unanswered); found via search",
+   "logged_at": "2026-11-17T15:00+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+   "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-central: 17 more flaws patched (e.g. CVE-2026-129275) and earlier 4EverAble2Shell bugs exploited to drop crypto miners; N-central only in baseline (no advisory_id), so logged not drafted; found via search",
+   "logged_at": "2026-11-17T15:00+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+   "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Uber driver data breach (~150k) linked to third-party (Fireworks AI) attack; already logged from CyberPress; no CVE; found via search",
+   "logged_at": "2026-11-17T15:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+   "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Copeland/Dixell XWEB EVO refrigeration controller flaws (CVE-2026-124002..124015 range) probed by attackers; niche ICS; found via search, date not confirmed",
+   "logged_at": "2026-11-17T15:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+   "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Ivanti Connect Secure CVE-2026-111357, CVE-2026-118527 (KEV 30 Oct); story ~29-30 Oct, older than 2 days; found via search",
+   "logged_at": "2026-11-17T15:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-sap-icm2shell-flaws/",
+   "title": "Critical SAP ICM2Shell Flaws Allow Hackers to Take Full Control of Servers Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "SAP ICM2SHELL CVE-2026-76964, CVE-2026-89126 (Nov Patch Day 10 Nov, Onapsis); already logged 15 Nov; no exploitation reported; found via search",
+   "logged_at": "2026-11-17T15:00+05:30"
   }
  ],
  "ids": {
