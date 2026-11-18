@@ -2712,11 +2712,49 @@
    "priority": "Low",
    "note": "AI model release news; not a threat",
    "logged_at": "2026-11-17T19:01+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-115731",
+   "title": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-115731 Puppet Enterprise report deserialisation RCE, KEV added 17 Nov 2026 (ransomware Unknown); drafted from KEV + secondary sources (vendor/NVD pages not fetchable)",
+   "advisory_id": "TA18112026.01",
+   "logged_at": "2026-11-18T11:01+05:30"
+  },
+  {
+   "url": "https://cybersecuritynews.com/apache-http-server-rce-exploitation/",
+   "title": "Critical Apache HTTP Server RCE Vulnerability Active Exploited in Attacks",
+   "source": "Cyber Security News (via search)",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Apache HTTP Server HTTP/2 RCE (CVE-2026-23918 / CVE-2026-119618 per search results, not confirmed) reported actively exploited; earlier coverage was baseline only (no advisory_id); not drafted - article not fetchable; needs manual review",
+   "logged_at": "2026-11-18T11:01+05:30"
+  },
+  {
+   "url": "https://cybersecuritynews.com/java4shell/",
+   "title": "Critical Java4Shell Flaw Lets Hackers Execute Code Without Authentication on OpenJDK Servers",
+   "source": "Cyber Security News (via search)",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "'Java4Shell' pre-auth RCE in OpenJDK Base64 decoder; CVE not confirmed; not drafted - article not fetchable; needs manual review",
+   "logged_at": "2026-11-18T11:01+05:30"
+  },
+  {
+   "url": "https://gbhackers.com/critical-java4shell-flaw/",
+   "title": "Critical Java4Shell Flaw in OpenJDK Base64 Decoder Enables Remote Code Execution",
+   "source": "GBHackers (via search)",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Same Java4Shell OpenJDK incident; CVE not confirmed; not drafted",
+   "logged_at": "2026-11-18T11:01+05:30"
   }
  ],
  "ids": {
   "13112026": 3,
   "15112026": 1,
-  "17112026": 1
+  "17112026": 1,
+  "18112026": 1
  }
 }
