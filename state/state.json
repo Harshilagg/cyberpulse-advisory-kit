@@ -2749,12 +2749,170 @@
    "priority": "High",
    "note": "Same Java4Shell OpenJDK incident; CVE not confirmed; not drafted",
    "logged_at": "2026-11-18T11:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+   "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Microsoft agent-framework PyPI 1.26.1/1.26.2 malicious (.pth credential stealer, 17 Nov); no CVE; found via search (homepages not fetchable)",
+   "advisory_id": "TA18112026.02",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/microsofts-agent-framework-pypi-package/",
+   "title": "Hackers Inject Credential-Stealing Malware Into Microsoft's Agent Framework PyPI Package",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Same agent-framework PyPI compromise; no CVE; found via search (homepages not fetchable)",
+   "advisory_id": "TA18112026.02",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+   "title": "Critical Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Java4Shell CVE-2026-114938 Java Base64 decoder pre-auth RCE; fixes 17 Nov; not exploited/not KEV; earlier 11:01 entry had no advisory; found via search (homepages not fetchable)",
+   "advisory_id": "TA18112026.03",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+   "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Oracle Java fixes incl. CVE-2026-114938 Java4Shell; found via search (homepages not fetchable)",
+   "advisory_id": "TA18112026.03",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-java4shell-flaw/",
+   "title": "Critical Java4Shell Flaw Lets Hackers Execute Code Remotely on Popular Java Servers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Java4Shell CVE-2026-114938; found via search (homepages not fetchable)",
+   "advisory_id": "TA18112026.03",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+   "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Russian COLD RELIC uses stolen Google Workspace data to breach second US org; not read; no CVE; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Apple CVE-2024-27834 KEV 4 Nov (APT29/Sekoia); published 5 Nov, older than 2 days; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack",
+   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Fugaku supercomputer taken offline after cyberattack; not read; no CVE; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds",
+   "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Research: leaked cloud keys in Docker Hub images abused within seconds; no CVE; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+   "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Researchers hijacked Hugging Face account of Kokoro AI model (supply-chain risk research); no CVE; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
+   "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Optimizely supply-chain skimmer; already logged 17 Nov (no advisory_id); not drafted, mentioned; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-infect-178-major-websites/",
+   "title": "Hackers Infect 178 Major Websites With Malware Through Optimizely Supply Chain Attack",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Optimizely supply-chain attack (178 sites); already logged 17 Nov, no advisory_id; not drafted; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/optimizely-attack-compromises-websites/",
+   "title": "Hackers Inject Malicious JavaScript Into 178 Organizations' Websites Through Optimizely Supply Chain Attack",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Optimizely supply-chain attack; already logged 17 Nov, no advisory_id; not drafted; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+   "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-central 17 flaws patched, legacy APIs removed; already logged 13-17 Nov baseline (no advisory_id); not drafted; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
+   "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "ScreenConnect MSP campaign (CVE-2026-84869); covered by TA17112026.01, no new info seen; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
+   "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "SAP ICM2SHELL/ProxyGate Nov patch day; already logged 15-17 Nov; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+   "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Apple Bluetooth/AirPlay pairing flaws patched; no exploitation reported; not read; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T13:02+05:30"
   }
  ],
  "ids": {
   "13112026": 3,
   "15112026": 1,
   "17112026": 1,
-  "18112026": 1
+  "18112026": 3
  }
 }
