@@ -3042,12 +3042,103 @@
    "priority": "Low",
    "note": "Zimbra CVE-2026-73570 unauth RCE exploited pre-disclosure (Microsoft); story ~1 Oct 2026, older than 2 days; found via search (homepages not fetchable)",
    "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Apache Roller CVE-2026-129448 (=CVE-2026-82384) XML-RPC unauth deserialisation RCE, CVSS 9.8, exploited per Apache 17 Nov; fix 6.1.6; not KEV; drafted from secondary sources (Apache list/NVD not fetchable)",
+   "advisory_id": "TA18112026.04",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+   "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Java4Shell CVE-2026-114938; covered by TA18112026.03; no new exploitation/KEV info; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+   "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Puppet Enterprise CVE-2026-115731; covered by TA18112026.01; no new info seen; found via search",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+   "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "High",
+   "note": "agent-framework PyPI compromise; no CVE; covered by TA18112026.02; found via search",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/nvidia-gpu-driver-flaw/",
+   "title": "NVIDIA GPU Driver Flaw Lets Attackers Escape Containers and Gain Root Access to Linux Hosts",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "NVIDIA Linux GPU driver NvRoot/ForgePtr local privilege escalation/container escape; CVEs not checked; not reported exploited; found via search",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/chinese-spies-target-banks/",
+   "title": "Chinese Cyber Spies Target Bank VPNs and Microsoft 365 Accounts in Global Espionage Campaigns",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "China-nexus espionage targeting bank VPNs and M365 accounts; details/CVEs not confirmed (article not fetched); found via search",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/mior-attack-cloud-hosts-read-modify-amd/",
+   "title": "New Mior Attack Lets Malicious Cloud Hosts Read and Modify AMD Confidential VM Memory",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "AMD SEV-SNP Mior research attack; already logged 15 Nov from another site",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/fake-freight-platforms-deliver-castlerat/",
+   "title": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies' Systems",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "CastleRAT phishing via fake freight booking platforms targeting trucking/logistics; found via search",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/microsoft-365-recovery-phishing/",
+   "title": "Hackers Send Fake Microsoft 365 Email Recovery Notices to Lure Users Into Credential Phishing",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "M365 credential phishing lure; no CVE; found via search",
+   "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+   "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+   "source": "The Hacker News",
+   "type": "Product",
+   "priority": "Low",
+   "note": "Apple macOS permission hardening; not a threat; found via search",
+   "logged_at": "2026-11-18T17:01+05:30"
   }
  ],
  "ids": {
   "13112026": 3,
   "15112026": 1,
   "17112026": 1,
-  "18112026": 3
+  "18112026": 4
  }
 }
