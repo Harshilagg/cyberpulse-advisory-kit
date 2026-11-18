@@ -3133,6 +3133,15 @@
    "priority": "Low",
    "note": "Apple macOS permission hardening; not a threat; found via search",
    "logged_at": "2026-11-18T17:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-breach-japans-fugaku-supercomputer/",
+   "title": "Hackers Breach Japan's Fugaku Supercomputer, Exposing Data of Up to 4,597 Users",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Follow-up on Fugaku (RIKEN) breach already logged: user data of up to 4,597 users exposed; no CVE; research facility, limited enterprise relevance; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T19:00+05:30"
   }
  ],
  "ids": {
