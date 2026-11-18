@@ -2907,6 +2907,141 @@
    "priority": "Low",
    "note": "Apple Bluetooth/AirPlay pairing flaws patched; no exploitation reported; not read; found via search (homepages not fetchable)",
    "logged_at": "2026-11-18T13:02+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+   "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-115731 Puppet exploitation; covered by TA18112026.01; search shows public PoC/Neodyme write-up (not verified, article not fetchable) - possible follow-up, needs manual review; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+   "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "iOS mic-permission bypass write-up; same as 16 Nov CyberPress item (no advisory_id); CVE/exploitation not confirmed; not read; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Hackers Use GraphDoor Backdoor and Microsoft SharePoint to Spy on Government Networks",
+   "url": "https://cyberpress.org/graphdoor-backdoor-and-microsoft-sharepoint/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Kaspersky: GitDoor/GraphDoor backdoors using GitHub and SharePoint (Graph API) as C2 vs government orgs in Asia and Africa; no CVE; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Critical Apache HTTP Server Flaw Allows Hackers to Execute Code Remotely",
+   "url": "https://cyberpress.org/critical-apache-http-server-flaw/",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Apache HTTP/2 RCE CVE-2026-119618 (fixed 2.4.71); baseline 13 Nov + exploitation report logged 11:01 18 Nov, no advisory_id; not drafted, mentioned; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Hackers Poison GitHub Repositories to Make AI Coding Assistants Execute Malicious JavaScript",
+   "url": "https://cyberpress.org/github-poisoning-hijacks-assistants/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Poisoned GitHub repos trick AI coding assistants into running malicious JS; no CVE; not read; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Russian Hackers Hijack Google Workspace Accounts to Steal Data and Target Other Companies",
+   "url": "https://cyberpress.org/russian-hackers-hijack-workspace/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "COLD RELIC Google Workspace intrusions; same incident logged 13:02 18 Nov; no CVE; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Hackers Use TheMailer AI Phishing Kit to Rewrite Emails Until They Bypass Spam Filters",
+   "url": "https://cyberpress.org/themailer-ai-phishing-kit/",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "TheMailer AI phishing kit iterates emails to evade spam filters; no CVE; not read; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "CyberPress",
+   "title": "Hackers Use Fake Google Play Download Pages to Infect Android Phones With GravityRAT Spyware",
+   "url": "https://cyberpress.org/fake-play-pages-spread-gravityrat/",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "GravityRAT Android spyware via fake Google Play pages; mobile/consumer; not read; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Tor releases emergency update amid ongoing DDoS attack",
+   "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Tor DDoS emergency update; same story logged 17 Nov; no enterprise impact; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+   "type": "Legal",
+   "priority": "Low",
+   "note": "Scattered Spider member sentenced; law enforcement news; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft announces Windows Server 2028 with hardened security",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+   "type": "Product",
+   "priority": "Low",
+   "note": "Windows Server 2028 announcement; not a threat; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+   "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Java4Shell CVE-2026-114938; covered by TA18112026.03; no new exploitation/KEV info seen; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+   "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Siemens Software Center CVE-2026-110936 exploited in ClickFix attacks; story from Oct 2026, older than 2 days; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Vulnerability Exposes N8n Instances to Takeover Attacks",
+   "url": "https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "n8n Ni8mare CVE-2026-21858 (CVSS 10); disclosed Jan 2026, older than 2 days; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
+   "url": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Zimbra CVE-2026-73570 unauth RCE exploited pre-disclosure (Microsoft); story ~1 Oct 2026, older than 2 days; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-18T15:00+05:30"
   }
  ],
  "ids": {
