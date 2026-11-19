@@ -3726,6 +3726,53 @@
    "priority": "Low",
    "note": "Crypto deepfake scam; consumer; no CVE",
    "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+   "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Cisco Expressway CVE-2026-76466 (CVSS 9.8) clustered pre-auth root RCE exploited per F6 after public PoC; fix X15.5.20; not KEV; F6 IOCs not retrievable",
+   "advisory_id": "TA19112026.06",
+   "logged_at": "2026-11-19T19:04+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+   "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Drupal core CVE-2026-132165 (SA-CORE-2026-017) anonymous install.php reinstall RCE, Critical 18/25; fixed 10.6.22/11.3.22/11.4.13; not exploited; also CVE-2026-132166",
+   "advisory_id": "TA19112026.07",
+   "logged_at": "2026-11-19T19:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/synology-warns-critical-nas-flaws/",
+   "title": "Synology Warns of Critical NAS Flaws Allowing Unauthenticated File Access and DoS Attacks",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Synology SA-26:21 CVE-2026-120382 OAuth API pre-auth (CVSS 9.8), fix due 20 Nov, workaround disable OAuth Service; SA-26:20 = NGINX2Root CVE-2026-123007 (TA19112026.02); no exploitation reported; not drafted",
+   "logged_at": "2026-11-19T19:04+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
+   "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Apache Roller CVE-2026-129448 / Axis CVE-2026-90436 exploited; covered by TA18112026.04 and TA19112026.01; not read, no new info seen",
+   "logged_at": "2026-11-19T19:04+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+   "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Edge Lockdown Mode feature test; not a threat",
+   "logged_at": "2026-11-19T19:04+05:30"
   }
  ],
  "ids": {
@@ -3733,6 +3780,6 @@
   "15112026": 1,
   "17112026": 1,
   "18112026": 4,
-  "19112026": 5
+  "19112026": 7
  }
 }
