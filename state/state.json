@@ -3142,12 +3142,350 @@
    "priority": "Low",
    "note": "Follow-up on Fugaku (RIKEN) breach already logged: user data of up to 4,597 users exposed; no CVE; research facility, limited enterprise relevance; found via search (homepages not fetchable)",
    "logged_at": "2026-11-18T19:00+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+   "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Java4Shell CVE-2026-114938: CISA urges patching; not in KEV as of 19 Nov; covered by TA18112026.03, no material new info",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+   "title": "Researchers Claim Two RCE Exploits That Bypass Telegram's New Android Defenses",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Telegram Android: researchers claim two RCE exploits bypassing new defences; no CVE",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+   "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Trigram campaign impersonating ~50 AI/blockchain brands to deliver infostealers to developers",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+   "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "GitDoor/GraphDoor backdoors abusing GitHub and SharePoint as C2; GraphDoor already logged 18 Nov (no advisory)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+   "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "High",
+   "note": "ScreenConnect: ConnectWise warns attacks continue, SCKit targets unpatched servers; related ScreenConnect campaign covered by TA17112026.01; SCKit detail not confirmed as new",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/artex-ai-agents-breach-barracuda-cloud/",
+   "title": "Hackers Use ARTEX AI Agents to Breach Barracuda Cloud and Steal AWS and Azure Credentials",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Barracuda cloud breach via ARTEX AI agents; already logged 17 Nov",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/microsoft-warns-exploiting-microsoft-365-outage/",
+   "title": "Microsoft Warns Hackers Are Exploiting Microsoft 365 Outage to Launch Credential Phishing Attacks",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Phishing exploiting Microsoft 365 outage",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/cyberstrikeai-exposes-ungated-hacking/",
+   "title": "CyberStrikeAI Investigation Highlights Risks of Autonomous Hacking Tools With Disabled Approval Gates",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "CyberStrikeAI autonomous hacking tool research",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/fortigate-vpn-credentials-exposed/",
+   "title": "Hackers Expose 500+ FortiGate VPN Credentials as Researchers Uncover 178-Bot Malware Network",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "500+ FortiGate VPN credentials exposed via 178-bot malware network; no CVE",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/apple-tightens-macos-27-3-security/",
+   "title": "Apple Tightens macOS 27.3 Security to Stop AI Agents From Accessing Sensitive Data",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Apple macOS 27.3 permission changes for AI agents",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+   "title": "Oracle Patches 640 Vulnerabilities With November 2026 CSPU",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Oracle Nov 2026 CSPU, 640 fixes incl. Java4Shell CVE-2026-114938 (covered by TA18112026.03)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+   "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "NSA classified network outage; no attack confirmed",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+   "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Google: AI framework autonomously weaponised flaws in real attacks",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+   "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Ipsos investigating internal system breach",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
+   "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Fandango payment card exposure; logged 17 Nov",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
+   "title": "Access Dental Management Data Breach Impacts Over 340,000",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Access Dental Management breach, 340,000+ affected",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+   "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "California sues OpenAI after Hugging Face hack",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Ukraine/FBI arrest ransomware gang members tied to $40M ransoms",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Microsoft agent-framework PyPI compromise; covered by TA18112026.02",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "40 Irish credit unions breached via IT provider (third-party/MSP risk)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:fugaku-supercomputer-taken-offline-after-security-breach-riken",
+   "title": "Fugaku supercomputer taken offline after security breach (RIKEN)",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Fugaku supercomputer breach; logged 18 Nov (homepage teaser, no link)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:hugging-face-ownership-verification-flaw-let-researchers-take-over-kokoro-text-to-speech-model",
+   "title": "Hugging Face ownership verification flaw let researchers take over Kokoro text-to-speech model",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Hugging Face Kokoro model takeover; logged 18 Nov (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:tor-project-security-update-for-relay-software-against-ongoing-ddos-attack",
+   "title": "Tor Project security update for relay software against ongoing DDoS attack",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Tor relay DDoS update; logged (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:microsoft-tests-remote-lock-for-stolen-or-lost-windows-devices-without-wipe",
+   "title": "Microsoft tests remote lock for stolen or lost Windows devices without wipe",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Microsoft remote lock feature test (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:judge-acquits-two-brothers-accused-of-25m-crypto-theft-via-ethereum-bug",
+   "title": "Judge acquits two brothers accused of $25M crypto theft via Ethereum bug",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Court acquittal, Ethereum bug theft case (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:uber-notifies-nearly-150-000-drivers-of-data-theft-via-fireworks-breach",
+   "title": "Uber notifies nearly 150,000 drivers of data theft via Fireworks breach",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Uber driver data via Fireworks breach; logged 17 Nov (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:kazakh-national-extradited-from-italy-over-ransomware-attacks-on-us-targets",
+   "title": "Kazakh national extradited from Italy over ransomware attacks on US targets",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Kazakh national extradited over ransomware (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:suspected-optimizely-supply-chain-attack-loads-malicious-javascript-on-major-websites",
+   "title": "Suspected Optimizely supply chain attack loads malicious JavaScript on major websites",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Optimizely supply-chain skimmer; logged since 17 Nov, no advisory_id (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:google-gemini-ai-agents-repeatedly-tried-to-hack-a-real-organization-s-website-in-safety-testing",
+   "title": "Google Gemini AI agents repeatedly tried to hack a real organization's website in safety testing",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Google Gemini agents attempted hacking in safety testing (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:barracuda-cloud-breach-via-stolen-access-key-and-artex-ai-pentest-framework",
+   "title": "Barracuda cloud breach via stolen access key and ARTEX AI pentest framework",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Barracuda/ARTEX breach; logged 17 Nov (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:microsoft-says-july-software-bug-caused-worldwide-microsoft-365-outage",
+   "title": "Microsoft says July software bug caused worldwide Microsoft 365 outage",
+   "source": "BleepingComputer (homepage teaser, no link)",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Microsoft 365 outage root cause: software bug (teaser)",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "kev:CVE-2024-10441",
+   "title": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2024-10441 Synology DSM pre-auth RCE, CVSS 9.8, KEV added 18 Nov 2026, due 21 Nov",
+   "advisory_id": "TA19112026.01",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-40217",
+   "title": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-40217 LiteLLM guardrail sandbox escape RCE (admin key), KEV added 18 Nov 2026, due 2 Dec",
+   "advisory_id": "TA19112026.01",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-90817",
+   "title": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-90817 REDCap pre-auth code injection, CVSS 9.8, KEV added 18 Nov 2026, due 21 Nov",
+   "advisory_id": "TA19112026.01",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-90436",
+   "title": "Apache Axis Unsafe Reflection Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-90436 Apache Axis 1.x (EOL) unsafe reflection pre-auth RCE, also Confluence DC Remote API; KEV added 18 Nov 2026, no Axis fix",
+   "advisory_id": "TA19112026.01",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0557",
+   "title": "CIVN-2026-0557: Multiple Vulnerabilities in C-DAC e-Sushrut HMIS",
+   "source": "CERT-In",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "CERT-In rated High: C-DAC e-Sushrut HMIS, CVE-2026-124643..124646 (auth bypass, IDOR exposing patient data); niche hospital product",
+   "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2026-0061",
+   "title": "CIAD-2026-0061: Remote Code Execution Vulnerability in Oracle Java SE and Oracle GraalVM Products",
+   "source": "CERT-In",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CERT-In CIAD-2026-0061 (High): Oracle Java SE/GraalVM RCE CVE-2026-114938 Java4Shell; covered by TA18112026.03",
+   "logged_at": "2026-11-19T08:59+05:30"
   }
  ],
  "ids": {
   "13112026": 3,
   "15112026": 1,
   "17112026": 1,
-  "18112026": 4
+  "18112026": 4,
+  "19112026": 1
  }
 }
