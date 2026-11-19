@@ -3606,6 +3606,126 @@
    "priority": "High",
    "note": "PHP pre-release notice (all supported branches, fixes 19 Nov 14:00-14:30 UTC, CVEs not yet disclosed); same as THN item logged 11:03, no advisory_id; not drafted, mentioned; found via search",
    "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+   "title": "Java4Shell CVE-2026-114938 Exploited in the Wild",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA19112026.03",
+   "note": "CVE-2026-114938 Java4Shell: exploitation attempts 18-19 Nov (GreyNoise, watchTowr, Cloudflare, Previdian), no confirmed compromise; follow-up to TA18112026.03",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+   "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "High",
+   "advisory_id": "TA19112026.04",
+   "note": "N-able Mail Assure/SpamExperts Hosted Cloud server breached, mgmt portal/APIs disabled in 3 regions; no CVE; unrelated to N-central; found via search",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-ruby2shell-flaw/",
+   "title": "Critical Ruby2Shell Flaw Allows Unauthenticated RCE in Rails and Sinatra Applications",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA19112026.05",
+   "note": "Ruby2Shell GHSA-34m4-m9fh-gqp5 (CVE pending) pre-auth RCE, Rails/Sinatra default, GitLab/GHES bundled; fixed Ruby 3.3.14/3.4.13/4.0.10; PoC due ~1 week; not exploited",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+   "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "KEV 18 Nov additions CVE-2024-10441, CVE-2026-40217, CVE-2026-90817, CVE-2026-90436; covered by TA19112026.01; not read",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
+   "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "PHP pre-release notice (fixes 19 Nov 14:00 UTC, CVEs not disclosed); already logged 11:03/12:59, no advisory_id; not drafted, mentioned",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
+   "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "nginx2root CVE-2026-123007; covered by TA19112026.02 (PoC already included); no new info",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
+   "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Splunk Enterprise CVE-2026-76536/CVE-2026-76535 (unauth, empty clustering secret), ES CVE-2026-131202, SOAR CVE-2026-131253/CVE-2026-131287; not exploited; fixed 10.6.1/10.4.5/10.2.9/10.0.12/9.4.17",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+   "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Depthfirst PoCs: PostgreSQL CVE-2026-116331, MySQL CVE-2026-101786, Oracle Text CVE-2026-114819 (9.9), ORDS CVE-2026-91609; all patched; mostly low-priv auth; not exploited",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/microsoft-device-code-phishing-bypasses-mfa/",
+   "title": "Hackers Abuse Microsoft Device Code Login to Bypass MFA and Access Corporate Email Accounts",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Hornetsecurity: device-code phishing campaigns (fake SharePoint payment lures); no CVE",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Gentlemen ransomware lists NVIDIA, no proof; NVIDIA says possible third-party partner incident; no CVE",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/malware-steals-banking-credentials/",
+   "title": "Hackers Harvest US Banking Credentials From Infected PCs as Researchers Uncover 603 Malware Implants",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Exposed server logs: 603 implants/469 hosts, US banking/federal credentials stolen; no CVE",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+   "title": "Microsoft confirms app installation, launch issues after hotpatch",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Windows hotpatch side effects; not security; no CVE",
+   "logged_at": "2026-11-19T17:03+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+   "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Crypto deepfake scam; consumer; no CVE",
+   "logged_at": "2026-11-19T17:03+05:30"
   }
  ],
  "ids": {
@@ -3613,6 +3733,6 @@
   "15112026": 1,
   "17112026": 1,
   "18112026": 4,
-  "19112026": 2
+  "19112026": 5
  }
 }
