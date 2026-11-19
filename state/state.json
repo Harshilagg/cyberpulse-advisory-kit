@@ -3479,6 +3479,52 @@
    "priority": "High",
    "note": "CERT-In CIAD-2026-0061 (High): Oracle Java SE/GraalVM RCE CVE-2026-114938 Java4Shell; covered by TA18112026.03",
    "logged_at": "2026-11-19T08:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+   "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "advisory_id": "TA19112026.02",
+   "note": "nginx2root CVE-2026-123007 NGINX HTTP/2 pre-auth RCE (CVSS4 9.2), public Rapid7 PoC, fixed 1.31.9/1.30.7, Plus 37.3.0.1/37.0.8.1 (F5 K000163926); +CVE-2026-123633/123634/121810/113425; not exploited/not KEV as of 18 Nov; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-19T11:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+   "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "PHP pre-release notice: security releases for all supported branches 19 Nov 14:00-14:30 UTC, highest severity CRITICAL but needs non-default config; incl. CVE-2026-115560 (session upload progress RCE); CVEs/versions embargoed; NOT drafted yet - draft once releases and advisories are published (treat release as new info)",
+   "logged_at": "2026-11-19T11:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+   "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Apache Roller CVE-2026-129448 exploited; covered by TA18112026.04; no new info seen (found via search)",
+   "logged_at": "2026-11-19T11:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/windows-hello-vulnerability/",
+   "title": "Windows Hello Vulnerability Lets Attackers Brute-Force PINs in Just 40 Hours",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Windows Hello PIN brute-force in ~40 hours; CVE/details not confirmed (article not readable); found via search, date not confirmed",
+   "logged_at": "2026-11-19T11:03+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices",
+   "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Microsoft Remote Lock feature test; already logged as teaser 19 Nov; not a threat",
+   "logged_at": "2026-11-19T11:03+05:30"
   }
  ],
  "ids": {
@@ -3486,6 +3532,6 @@
   "15112026": 1,
   "17112026": 1,
   "18112026": 4,
-  "19112026": 1
+  "19112026": 2
  }
 }
