@@ -3525,6 +3525,87 @@
    "priority": "Low",
    "note": "Microsoft Remote Lock feature test; already logged as teaser 19 Nov; not a threat",
    "logged_at": "2026-11-19T11:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+   "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Flash-chip attack bypassing TPM lockout to brute-force Windows Hello/BitLocker PINs; physical access; same as Windows Hello item logged 11:03 19 Nov; CVE not confirmed; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+   "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Opinion/sponsored-style piece on AI pentesting; not a threat; found via search",
+   "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/",
+   "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Apache Roller CVE-2026-129448 exploited; covered by TA18112026.04; no new info seen; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/good-game-infostealer-strikes/",
+   "title": "Hackers Deploy Good Game Infostealer to Target 23 Browsers and 21 Cryptocurrency Wallets",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Good Game infostealer targeting 23 browsers and 21 crypto wallets; no CVE; not read; date not confirmed; found via search",
+   "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/opsagent-expands-ransomware-capabilities/",
+   "title": "New OpsAgent Malware Framework Gives Ransomware Hackers Cobalt Strike-Like Attack Capabilities",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "OpsAgent post-exploitation framework used by ransomware actors; no CVE; not read; date not confirmed; found via search",
+   "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/nginx2root-flaws-nginx-servers/",
+   "title": "NGINX2Root Flaws Let Hackers Execute Code Remotely on NGINX Servers Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "nginx2root CVE-2026-123007 NGINX HTTP/2 pre-auth RCE; covered by TA19112026.02; no new info seen; found via search",
+   "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/eggstreme-returns-with-stealth/",
+   "title": "EggStreme Malware Returns With Stealthier Backdoor as China-Linked Hackers Target Government Organizations",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "China-linked EggStreme backdoor returns vs government orgs; no CVE; not read; date not confirmed; found via search",
+   "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/nodelinkrat-exploits-node-js-tooling/",
+   "title": "New NodeLinkRAT Malware Abuses Legitimate Node.js Tools to Evade Security Detection",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "NodeLinkRAT abusing legitimate Node.js tooling for evasion; no CVE; not read; date not confirmed; found via search",
+   "logged_at": "2026-11-19T12:59+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-php-security-flaws/",
+   "title": "Critical PHP Security Flaws Prompt Warning Ahead of November 19 Patches",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "PHP pre-release notice (all supported branches, fixes 19 Nov 14:00-14:30 UTC, CVEs not yet disclosed); same as THN item logged 11:03, no advisory_id; not drafted, mentioned; found via search",
+   "logged_at": "2026-11-19T12:59+05:30"
   }
  ],
  "ids": {
