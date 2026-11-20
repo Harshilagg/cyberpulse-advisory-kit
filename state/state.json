@@ -3968,6 +3968,132 @@
    "priority": "Medium",
    "note": "Chrome 158 204 fixes, 6 Critical; same as CyberPress item; none exploited",
    "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+   "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Cisco Expressway CVE-2026-76466 exploitation; covered by TA19112026.06; headline suggests victim detail (4 devices, internal network reach) - article not readable, possible follow-up needs manual review; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+   "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Non-security Windows 11 feature/fix update",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+   "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "F5 BIG-IP critical data-plane flaws (CVE-2026-123637 et al.); covered by TA20112026.03; no new info seen",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+   "title": "VMware vCenter CVE-2026-123890 Zero-Day Exploited",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "VMware vCenter CVE-2026-123890 zero-day; covered by TA20112026.01; no new info seen",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/exploit-vmware-vcenter-zero-day/",
+   "title": "Chinese Hackers Exploit VMware vCenter Zero-Day to Gain Admin Access Without Login",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "VMware vCenter CVE-2026-123890 zero-day; covered by TA20112026.01; no new info seen",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+   "title": "N-able Blames Service Disruption on Cyberattack",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "High",
+   "note": "N-able Mail Assure/SpamExperts cloud breach (no CVE); covered by TA19112026.04; no new info seen",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
+   "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "FortiMail CVE-2026-104286 zero-day from early Oct 2026; older than 2 days, not triaged",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+   "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "PAN-OS CVE-2026-0322 zero-day; older story (not this week), not triaged",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/nginx2root-vulnerabilities/",
+   "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "nginx2root CVE-2026-123007; covered by TA19112026.02; no new info seen",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/attackers-exploit-litellm-badhost/",
+   "title": "Attackers Target LiteLLM AI Gateways Using BadHost Authentication Bypass and RCE Vulnerabilities",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "LiteLLM BadHost / CVE-2026-42271, CVE-2026-48710 chain from June 2026; older than 2 days, not triaged",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-php2shell-vulnerability/",
+   "title": "Critical PHP2Shell Vulnerability Lets Hackers Execute Code on Servers Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "PHP2Shell CVE-2026-109618/CVE-2026-109619; covered by TA13112026.01; older",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/powershell-modules-steal-credentials/",
+   "title": "Hackers Launch 41 PowerShell Modules in Three Minutes to Harvest Financial Credentials",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "PowerShell credential-harvesting campaign; date and details not confirmed (found via search, not readable)",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/new-windows-11-zero-day/",
+   "title": "New Windows 11 Zero-Day Lets Attackers Bypass Lock Screen Using Microsoft Narrator",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Windows FastUnlock lock screen bypass (no CVE); covered by TA20112026.04; no new info seen",
+   "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/ai-hackers-probe-relentlessly/",
+   "title": "AI-Powered Hacking Tools Let Attackers Keep Trying Until They Find Weaknesses in Enterprise Defenses",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "General AI-attack trend piece; no actionable incident",
+   "logged_at": "2026-11-20T17:00+05:30"
   }
  ],
  "ids": {
