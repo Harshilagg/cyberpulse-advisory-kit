@@ -3773,6 +3773,201 @@
    "priority": "Low",
    "note": "Edge Lockdown Mode feature test; not a threat",
    "logged_at": "2026-11-19T19:04+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+   "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "ROMULUS ClickFix platform delivers new CNCMachineRMS-like RAT + Legion Loader (Blackpoint); no CVE",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+   "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "VMware vCenter CVE-2026-123890 (VMSA-2026-0009) zero-day exploited by Armory Castle (ex-UNC5221) since Sep 2026, via BeyondTrust CVE-2026-102764; fixed 8.0 U3m/9.0.2.0200/9.1.1.0200/VCF 5.2.5; not KEV",
+   "advisory_id": "TA20112026.01",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+   "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Windows FastUnlock lock screen bypass (no CVE), physical access, runs as limited WSIAccount; public PoC video, no fix, not exploited",
+   "advisory_id": "TA20112026.04",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Weekly roundup (8-Digits ransomware extradition, Infoblox vendor breach, Kimsuky Funhouse ransomware)",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+   "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "phpAfterShell CVE-2026-126714 (PHP session TOCTOU, needs session.upload_progress); fixed 8.2.36/8.3.37/8.4.28/8.5.13; not exploited",
+   "advisory_id": "TA20112026.02",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+   "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "PHP 7 critical flaws (CVSS 9.2) CVE-2026-115560/126714/129182/129289/129474/129481/129496 fixed 19 Nov in 8.2.36/8.3.37/8.4.28/8.5.13; follows pre-release notice logged 19 Nov; not exploited",
+   "advisory_id": "TA20112026.02",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+   "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "VMware vCenter CVE-2026-123890 auth bypass (CVSS 9.8) + CVE-2026-123891..123894 SDDC Manager/VMware Tools; VMSA-2026-0009",
+   "advisory_id": "TA20112026.01",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+   "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Drupal CVE-2026-132165 installer RCE; covered by TA19112026.07; no new info",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+   "title": "Everything Is a Web Application, Including Your Firewall",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Sponsored SANS contributed piece on PHP2Shell (covered by TA13112026.01)",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+   "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Ruby 7 flaws (GHSA-34m4-m9fh-gqp5 etc., CVEs requested), 5 with RCE PoCs, fixed 3.3.14/3.4.13/4.0.10; covered by TA19112026.05; article does not call it pre-auth or use 'Ruby2Shell' name - check earlier draft wording",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+   "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "F5 BIG-IP 6 critical data-plane overflows CVE-2026-123637/121805/120292/120285/116953/120722 (CVSS 9.8), config-specific, TMM crash/possible RCE, EHF only; not exploited",
+   "advisory_id": "TA20112026.03",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+   "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Chrome 158 scheduled release, 204 fixes, 6 Critical (CVE-2026-130963/131008/130975/131031/131054/131060); none exploited",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+   "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Atlassian Nov bulletin, 318 mostly third-party dependency flaws in Jira/Confluence/Bitbucket/Bamboo DC (e.g. CVE-2026-47890 9.8 Bamboo); none exploited",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/stingybasilisk-infiltrates-government-networks/",
+   "title": "Researchers Uncover StingyBasilisk Hackers Hiding Inside Government Networks for Nearly Four Years",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "StingyBasilisk long-dwell (~4 years) espionage in government networks; article not readable this run",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+   "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Piracy site shutdown by ACE; not a threat",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+   "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "M&A news",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+   "title": "Vero Security Raises $11 Million for AI Security Engineering Platform",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Funding news",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+   "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "GTIG: Star Blizzard impersonates employee of breached firm, steals Entra ID tokens, registers rogue MFA devices; no CVE",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+   "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Scattered Spider sentencing; law enforcement news",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+   "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Product news",
+   "logged_at": "2026-11-20T13:06+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+   "title": "Chrome 158 Patches 204 Vulnerabilities",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Chrome 158 204 fixes, 6 Critical; same as CyberPress item; none exploited",
+   "logged_at": "2026-11-20T13:06+05:30"
   }
  ],
  "ids": {
@@ -3780,6 +3975,7 @@
   "15112026": 1,
   "17112026": 1,
   "18112026": 4,
-  "19112026": 7
+  "19112026": 7,
+  "20112026": 4
  }
 }
