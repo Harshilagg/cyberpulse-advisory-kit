@@ -4216,6 +4216,96 @@
    "priority": "Low",
    "note": "Same WhatsApp flaw as SecurityWeek item; consumer app; not read",
    "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/chinese-hackers-softether-vpn/",
+   "title": "Chinese Hackers Use Modified SoftEther VPN to Spy on European Government Networks",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "China-linked espionage using modified SoftEther VPN bridge against European government networks (likely Webworm per Rapid7); no CVE; article not readable",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/north-korean-deepfake-video-calls/",
+   "title": "North Korean Hackers Use Deepfake Video Calls and Fake US Construction Company to Secure Contracts",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "DPRK actors use deepfake video calls and fake US construction company to win contracts; no CVE; article not readable",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+   "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "KEV roundup VMware vCenter CVE-2026-123890, Cisco Expressway CVE-2026-76466, Apache flaws; covered by TA21112026.01; no new info seen",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-f5-big-ip-vulnerability/",
+   "title": "Critical F5 BIG-IP Vulnerability Allows Hackers to Execute Code Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "F5 BIG-IP critical unauth RCE; presumed same as CVE-2026-123637 et al. covered by TA20112026.03; article not readable - verify manually",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/new-bazuka-android-banking-trojan/",
+   "title": "New Bazuka Android Banking Trojan Uses AI to Target Victims and Steal Banking Credentials",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Bazuka Android banking trojan using AI to steal banking credentials; mobile/consumer; no CVE; not read",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+   "title": "VMware patches vCenter zero-day exploited in attacks since September",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "VMware vCenter CVE-2026-123890; covered by TA20112026.01/TA21112026.01; headline says exploited since September - check exploitation timeline is in advisory; not read",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+   "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Ivanti Connect Secure CVE-2026-111357, CVE-2026-118527 (KEV 30 Oct); older story already logged 17 Nov; not triaged",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+   "title": "Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "THN weekly roundup",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+   "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Gentlemen ransomware NVIDIA claim; NVIDIA response; already logged 19 Nov; no CVE",
+   "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+   "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "SecurityWeek weekly roundup",
+   "logged_at": "2026-11-21T15:00+05:30"
   }
  ],
  "ids": {
