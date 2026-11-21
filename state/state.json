@@ -4306,6 +4306,63 @@
    "priority": "Low",
    "note": "SecurityWeek weekly roundup",
    "logged_at": "2026-11-21T15:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+   "title": "Amazon: China-Linked Hackers' AI Agents Exploited Medical Software Zero-Day",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA21112026.03",
+   "note": "MONAI Label <=0.8.5 path traversal GHSA-qc22-rmgc-vg94 / CVE-2026-133968 (9.8, per THN) exploited as zero-day by China-nexus actor via Cairn AI agents (Sep 2026); fix PR #1915, no release yet; auth off by default",
+   "logged_at": "2026-11-21T19:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+   "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA21112026.03",
+   "note": "MONAI Label CVE-2026-133968 / GHSA-qc22-rmgc-vg94 Cairn zero-day; same incident",
+   "logged_at": "2026-11-21T19:02+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA21112026.03",
+   "note": "MONAI Label CVE-2026-133968 Cairn zero-day; same incident; article not readable; found via search",
+   "logged_at": "2026-11-21T19:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+   "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Meta Muse consumer AI assistant hijack via malicious webpage (prompt injection); no CVE; not read; found via search",
+   "logged_at": "2026-11-21T19:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
+   "title": "Android's November 2026 Updates Patch Over 200 Vulnerabilities",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Android Nov 2026 bulletin; early-November story, older than 2 days, not triaged; found via search",
+   "logged_at": "2026-11-21T19:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/google-documents-ie-browser-zero-day-exploited-north-korean-hackers/",
+   "title": "Google Documents IE Browser Zero-Day Exploited by North Korean Hackers",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "IE zero-day exploited by DPRK; date not confirmed, likely older story (APT37 IE zero-day); not triaged; found via search",
+   "logged_at": "2026-11-21T19:02+05:30"
   }
  ],
  "ids": {
@@ -4315,6 +4372,6 @@
   "18112026": 4,
   "19112026": 7,
   "20112026": 4,
-  "21112026": 2
+  "21112026": 3
  }
 }
