@@ -4134,6 +4134,88 @@
    "note": "KEV 20 Nov 2026 (due 23 Nov): Apache Roller CVE-2026-129448; follow-up to TA18112026.04 in KEV roundup",
    "advisory_id": "TA21112026.01",
    "logged_at": "2026-11-21T11:00+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-watchguard-dimension-flaw/",
+   "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA21112026.02",
+   "note": "WatchGuard Dimension 15 flaws incl. CVE-2026-86130 unauth RCE (CVSS 9.3/8.7), CVE-2026-86094, CVE-2026-84322; fixed 2.3.2 (19 Nov); not exploited, no public PoC",
+   "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-apache-tomcat-flaw/",
+   "title": "Critical Apache Tomcat Flaw Lets Unauthenticated Attackers Join Secure Server Clusters",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Tomcat CVE-2026-133325 cluster TLS 1.3 PSK auth bypass (rogue node join, no RCE stated, no CVSS); only cluster+TLS-PSK configs; fixed 11.0.30/10.1.63/9.0.125; workaround TLS 1.2; not exploited",
+   "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+   "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Linux KVM CVE-2026-99312 (CNA 8.8 / Red Hat 5.6) AMD nested-virt guest-to-host memory read; needs guest VM control; fixed 7.3.5/6.18.64/6.12.118; mitigation kvm_amd nested=0; not exploited",
+   "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+   "title": "N-able says recent security breach led to major service outage",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "High",
+   "note": "N-able Mail Assure/SpamExperts Hosted Cloud breach (no CVE); covered by TA19112026.04; adds only that portal/quarantine/logging/mailbox sync are down worldwide, no evidence of customer data access; no restoration date; not drafted",
+   "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Bell Canada enterprise customer data stolen by 'agentic' threat actor (20 Nov); vendor impersonation risk; no CVE; not read in full",
+   "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Third-party vendor breach exposing card-brand/bank customer info; no CVE; not read; date not confirmed",
+   "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+   "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "SBC Medical Group data theft, 1.6M customers; no CVE; not read; date not confirmed",
+   "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+   "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "WhatsApp flaw fixed (malicious message deletes local chat files); consumer app; not read",
+   "logged_at": "2026-11-21T13:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/whatsapp-security-flaw/",
+   "title": "WhatsApp Security Flaw Lets Hackers Delete Local Chat Files Using Malicious Messages",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Same WhatsApp flaw as SecurityWeek item; consumer app; not read",
+   "logged_at": "2026-11-21T13:01+05:30"
   }
  ],
  "ids": {
@@ -4143,6 +4225,6 @@
   "18112026": 4,
   "19112026": 7,
   "20112026": 4,
-  "21112026": 1
+  "21112026": 2
  }
 }
