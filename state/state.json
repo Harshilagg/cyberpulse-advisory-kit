@@ -4094,6 +4094,46 @@
    "priority": "Low",
    "note": "General AI-attack trend piece; no actionable incident",
    "logged_at": "2026-11-20T17:00+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-123890",
+   "title": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "KEV 20 Nov 2026 (due 23 Nov): VMware vCenter CVE-2026-123890; follow-up to TA20112026.01 in KEV roundup",
+   "advisory_id": "TA21112026.01",
+   "logged_at": "2026-11-21T11:00+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-76466",
+   "title": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "KEV 20 Nov 2026 (due 23 Nov): Cisco Expressway CVE-2026-76466; follow-up to TA19112026.06 in KEV roundup",
+   "advisory_id": "TA21112026.01",
+   "logged_at": "2026-11-21T11:00+05:30"
+  },
+  {
+   "url": "kev:CVE-2025-42884",
+   "title": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "KEV 20 Nov 2026 (due 23 Nov): SAP NetWeaver Enterprise Portal JNDI injection CVE-2025-42884, CVSS 6.5, SAP Note 3660969 (Nov 2025); attack details not disclosed",
+   "advisory_id": "TA21112026.01",
+   "logged_at": "2026-11-21T11:00+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-129448",
+   "title": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "KEV 20 Nov 2026 (due 23 Nov): Apache Roller CVE-2026-129448; follow-up to TA18112026.04 in KEV roundup",
+   "advisory_id": "TA21112026.01",
+   "logged_at": "2026-11-21T11:00+05:30"
   }
  ],
  "ids": {
@@ -4102,6 +4142,7 @@
   "17112026": 1,
   "18112026": 4,
   "19112026": 7,
-  "20112026": 4
+  "20112026": 4,
+  "21112026": 1
  }
 }
