@@ -4363,6 +4363,15 @@
    "priority": "Low",
    "note": "IE zero-day exploited by DPRK; date not confirmed, likely older story (APT37 IE zero-day); not triaged; found via search",
    "logged_at": "2026-11-21T19:02+05:30"
+  },
+  {
+   "url": "https://securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says",
+   "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "FBI probing apparent hack of national criminal justice database (AP source); US govt, no CVE; article not readable this run",
+   "logged_at": "2026-11-22T10:59+05:30"
   }
  ],
  "ids": {
