@@ -4372,6 +4372,25 @@
    "priority": "Medium",
    "note": "FBI probing apparent hack of national criminal justice database (AP source); US govt, no CVE; article not readable this run",
    "logged_at": "2026-11-22T10:59+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets",
+   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "High",
+   "advisory_id": "TA22112026.01",
+   "note": "Rackspace Spot managed Kubernetes breached 17 Nov via leaked creds; Secrets read, rogue pods; customers notified 21 Nov; no CVE; article not readable, drafted from secondary coverage; found via search (homepages blocked)",
+   "logged_at": "2026-11-22T15:01+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+   "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "N-central 33 zero-days / offline; older story (~14 Nov), baseline-covered, no advisory_id; not triaged; found via search",
+   "logged_at": "2026-11-22T15:01+05:30"
   }
  ],
  "ids": {
@@ -4381,6 +4400,7 @@
   "18112026": 4,
   "19112026": 7,
   "20112026": 4,
-  "21112026": 3
+  "21112026": 3,
+  "22112026": 1
  }
 }
