@@ -4391,6 +4391,61 @@
    "priority": "Low",
    "note": "N-central 33 zero-days / offline; older story (~14 Nov), baseline-covered, no advisory_id; not triaged; found via search",
    "logged_at": "2026-11-22T15:01+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data",
+   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA22112026.02",
+   "note": "Entra Connect Health API flaw (no CVE) exploited for read-only access to tenant metadata + admin/tech contact emails; introduced 23 Jul, detected 9 Nov, server-side fix 19 Nov; phishing risk; article not readable, drafted from secondary coverage; found via search (homepages blocked)",
+   "logged_at": "2026-11-22T17:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "OpenRouter removed 3 AI inference providers over months of prompt theft; AI supply-chain data exposure; no CVE; not read; found via search",
+   "logged_at": "2026-11-22T17:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "FBI national criminal justice/police database hack; same incident as SecurityWeek item logged 22 Nov 10:59; no CVE; not read",
+   "logged_at": "2026-11-22T17:01+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs",
+   "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "PHP 19 Nov releases (18 flaws, 7 critical incl. CVE-2026-115560/126714) fixed in 8.2.36/8.3.37/8.4.28/8.5.13; covered by TA20112026.02; no new info (no exploitation reported); not drafted",
+   "logged_at": "2026-11-22T17:01+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express",
+   "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "ASUS Control Center Express critical hard-coded key flaw (CVE not confirmed; related ASUS CVEs CVE-2026-114202/114204 seen in search); endpoint utility, no exploitation reported; date not confirmed; not read",
+   "logged_at": "2026-11-22T17:01+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+   "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "US policy/appointment news; not an incident; date not confirmed",
+   "logged_at": "2026-11-22T17:01+05:30"
   }
  ],
  "ids": {
@@ -4401,6 +4456,6 @@
   "19112026": 7,
   "20112026": 4,
   "21112026": 3,
-  "22112026": 1
+  "22112026": 2
  }
 }
