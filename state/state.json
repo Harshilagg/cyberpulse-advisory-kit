@@ -4548,6 +4548,24 @@
    "priority": "Low",
    "note": "Opinion roundup; no incident; found via search (homepages not fetched)",
    "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+   "title": "GL.iNet GoodCloud Vulnerability Exploited for Malware Delivery",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "High",
+   "note": "GL.iNet GoodCloud cloud mgmt flaw (no CVE) exploitation; covered by TA23112026.01; no new info seen; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-23T19:05+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+   "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "ScreenConnect CVE-2026-84869 technician-PC exploitation (Huntress); covered by TA17112026.01; no new info seen; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-23T19:05+05:30"
   }
  ],
  "ids": {
