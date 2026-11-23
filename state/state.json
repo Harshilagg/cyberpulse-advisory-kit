@@ -4446,6 +4446,108 @@
    "priority": "Low",
    "note": "US policy/appointment news; not an incident; date not confirmed",
    "logged_at": "2026-11-22T17:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/gl-inet-cloud-vulnerability/",
+   "title": "Hackers Exploit GL.iNet Cloud Vulnerability to Install Malware on Routers and KVM Devices",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "High",
+   "note": "GL.iNet GoodCloud cloud mgmt flaw (no CVE) exploited 20 Nov: root shells/KVM implant on routers+KVMs; fixed firmware 22-23 Nov; found via search (homepages not fetched)",
+   "advisory_id": "TA23112026.01",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+   "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "High",
+   "note": "GL.iNet GoodCloud cloud mgmt flaw (no CVE) exploited 20 Nov: root shells/KVM implant on routers+KVMs; fixed firmware 22-23 Nov; found via search (homepages not fetched)",
+   "advisory_id": "TA23112026.01",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-asp-net-vulnerability/",
+   "title": "Critical ASP.NET Vulnerability Allows Hackers to Execute Code Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Idunno.AntiCsrf CVE-2026-131914 (CVSS 9.3) unauth RCE in IIS, exploited per Mandiant MNDT-2026-0048; no patch, remove library; found via search (homepages not fetched)",
+   "advisory_id": "TA23112026.02",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+   "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Cisco Expressway CVE-2026-76466; covered by TA19112026.06/TA21112026.01; no new info seen (KEV add 20 Nov); found via search (homepages not fetched)",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-cisco-expressway-flaw-2/",
+   "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Breach Internal Networks",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Cisco Expressway CVE-2026-76466; covered by TA19112026.06/TA21112026.01; no new info seen; found via search (homepages not fetched)",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/",
+   "title": "CISA Warns Hackers Are Actively Exploiting VMware, Cisco, SAP and Apache Vulnerabilities",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "KEV 20 Nov roundup (CVE-2026-123890, CVE-2026-76466, CVE-2025-42884, CVE-2026-129448); covered by TA21112026.01; no new info; found via search (homepages not fetched)",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/microsoft-entra-connect-health-flaw/",
+   "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Tenant Data",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Entra Connect Health API flaw (no CVE); covered by TA22112026.02; no new info seen; found via search (homepages not fetched)",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
+   "title": "PHP Patches Seven Critical RCE Vulnerabilities",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "PHP 19 Nov releases, 7 critical (CVE-2026-115560/126714 etc.); covered by TA20112026.02; no new info; found via search (homepages not fetched)",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/upload2shell-ghostscript-flaw/",
+   "title": "Upload2Shell Ghostscript Flaw Lets Hackers Execute Commands Through Malicious File Uploads",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Ghostscript CVE-2026-125396 Upload2Shell (CVSS 4.0 8.5) RCE via file rendering (CUPS, Roundcube, WordPress plugins, MediaWiki etc.); fixed 10.08.0 (8 Sep); not exploited; only partial PoC public; WP CVE-2026-65640; found via search (homepages not fetched)",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-breach-samsung-securities/",
+   "title": "Hackers Breach Samsung Securities, Exposing Bank Account and Personal Data of 8,241 Customers",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Samsung Securities VoC portal breach, 8,241 customers' PII (detected 21 Nov); no CVE; vector not disclosed; found via search (homepages not fetched)",
+   "logged_at": "2026-11-23T17:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+   "title": "Industry Reactions to Major Outages and AI Patching Questions: Feedback Friday",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Opinion roundup; no incident; found via search (homepages not fetched)",
+   "logged_at": "2026-11-23T17:03+05:30"
   }
  ],
  "ids": {
@@ -4456,6 +4558,7 @@
   "19112026": 7,
   "20112026": 4,
   "21112026": 3,
-  "22112026": 2
+  "22112026": 2,
+  "23112026": 2
  }
 }
