@@ -4566,6 +4566,26 @@
    "priority": "High",
    "note": "ScreenConnect CVE-2026-84869 technician-PC exploitation (Huntress); covered by TA17112026.01; no new info seen; found via search (homepages not fetchable)",
    "logged_at": "2026-11-23T19:05+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-134624",
+   "title": "N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "advisory_id": "TA24112026.01",
+   "note": "CVE-2026-134624 N-able MailAssure/SpamExperts SSRF in LDAP sync check, KEV added 23 Nov, due 26 Nov; follow-up to TA19112026.04 (cloud breach); drafted from KEV data only, vendor/NVD pages not fetched",
+   "logged_at": "2026-11-24T11:00+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-133968",
+   "title": "Project MONAI MONAI Label Path Traversal Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA24112026.02",
+   "note": "CVE-2026-133968 MONAI Label path traversal (Cairn zero-day) KEV added 23 Nov, due 26 Nov; follow-up to TA21112026.03",
+   "logged_at": "2026-11-24T11:00+05:30"
   }
  ],
  "ids": {
@@ -4577,6 +4597,7 @@
   "20112026": 4,
   "21112026": 3,
   "22112026": 2,
-  "23112026": 2
+  "23112026": 2,
+  "24112026": 2
  }
 }
