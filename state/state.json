@@ -4795,6 +4795,80 @@
    "priority": "Low",
    "note": "Funding news",
    "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials",
+   "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "advisory_id": "TA24112026.05",
+   "note": "Azure API Management Classic flaw (no CVE) exploited from 17 Nov vs Equinor/Skagerak; secrets/named values/subscription keys exposed; MS fix 19 Nov does not revoke stolen creds; NSM advisory 20/23 Nov; BC article not readable, drafted from SecurityWeek + secondary",
+   "logged_at": "2026-11-24T15:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+   "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "advisory_id": "TA24112026.05",
+   "note": "Azure APIM Classic flaw (no CVE); same incident",
+   "logged_at": "2026-11-24T15:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+   "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-134624 / CVE-2026-133968 KEV adds; covered by TA24112026.01/.02; no new info seen",
+   "logged_at": "2026-11-24T15:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+   "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-able Mail Assure CVE-2026-134624; covered by TA24112026.01; no new info seen",
+   "logged_at": "2026-11-24T15:02+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices",
+   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "High",
+   "note": "GL.iNet GoodCloud flaw (no CVE); covered by TA23112026.01; no new info seen",
+   "logged_at": "2026-11-24T15:02+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+   "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "OpenRouter AI provider prompt theft; same incident logged 22 Nov; no CVE",
+   "logged_at": "2026-11-24T15:02+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach",
+   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Cleverbridge (software e-commerce reseller) breach, card numbers + CVVs stolen; no CVE; not read",
+   "logged_at": "2026-11-24T15:02+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch",
+   "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "KB5132043 hotpatch printing issue with Forcepoint; operational, not security",
+   "logged_at": "2026-11-24T15:02+05:30"
   }
  ],
  "ids": {
@@ -4807,6 +4881,6 @@
   "21112026": 3,
   "22112026": 2,
   "23112026": 2,
-  "24112026": 4
+  "24112026": 5
  }
 }
