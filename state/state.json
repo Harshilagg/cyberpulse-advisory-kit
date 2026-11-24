@@ -4586,6 +4586,215 @@
    "advisory_id": "TA24112026.02",
    "note": "CVE-2026-133968 MONAI Label path traversal (Cairn zero-day) KEV added 23 Nov, due 26 Nov; follow-up to TA21112026.03",
    "logged_at": "2026-11-24T11:00+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+   "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Webworm modified SoftEther VPN espionage (Europe govt); same campaign logged 21 Nov (CyberPress); no CVE; not read",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+   "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble ⚡",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "THN weekly roundup (23 Nov); items already covered",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+   "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "npm binary-parser CVE-2026-134814 (CVSS 9.2/8.1) JS injection only via attacker-controlled parser definitions; fixed 2.3.1 (GHSA-xmxc-6c22-m377); not exploited",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+   "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-able Mail Assure CVE-2026-134624; covered by TA24112026.01 (KEV follow-up); no new info seen",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+   "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Idunno.AntiCsrf CVE-2026-131914; covered by TA23112026.02; no new info seen",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+   "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "High",
+   "note": "CERT-In CIAD-2026-0062 (Critical, 20 Nov): payment-workflow/record manipulation causing unauthorised transactions at Indian BFSI/TSPs + AI offensive frameworks; no CVE/IOCs; drafted",
+   "advisory_id": "TA24112026.04",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+   "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Ghostscript Upload2Shell CVE-2026-125396; already logged 23 Nov (Medium); no exploitation",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+   "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "GPGME CVE-2026-129975 double free via malicious OpenPGP key (no CVSS); <2.3.0 affected; fixed 2.3.1 / 1.24.4 / Gpg4win 5.1.2; not exploited",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+   "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Signal privacy feature; not an incident",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+   "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "WhatsApp 3 flaws (20 Nov); same story logged 21 Nov; consumer app",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/crowdstrike-acquire-zscaler-in-43-9-billion-deal/",
+   "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal to Expand Network Security and Zero Trust Protection",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "M&A news",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/indian-government-hijack-whatsapp-web-sessions/",
+   "title": "Indian Government Warns Hackers Could Hijack WhatsApp Web Sessions to Steal Messages and Impersonate Users",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Indian govt warning on WhatsApp Web session hijacking; India relevance; no CVE; not read",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/infiltrate-fbi-database/",
+   "title": "Hackers Reportedly Infiltrate FBI Database Containing Criminal Records and Arrest Warrants",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "FBI NCIC database hack; same incident logged 22 Nov; no CVE",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/fake-claude-spreads-revstealer/",
+   "title": "Hackers Use Fake Claude AI App to Spread RevStealer Malware and Steal Passwords and Crypto Wallets",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "RevStealer fake AI app lure; similar story logged 14 Nov; consumer",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/",
+   "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "PAN-OS/Panorama affected by NGINX2Root CVE-2026-123633/CVE-2026-123007 when HTTP/2 enabled (CVSS4 9.2); fixes 12.2.4-h3, 12.1.7-h15/12.1.10-h6, 11.2.10-h19/11.2.13-h6/11.2.16-h3; not exploited; follow-up to TA19112026.02",
+   "advisory_id": "TA24112026.03",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-breach-three-ai-providers/",
+   "title": "Hackers Breach Three AI Providers and Steal Customer Prompts Containing AWS Credentials",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same as OpenRouter providers prompt theft logged 22 Nov; no CVE",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-unifi-access-flaws/",
+   "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "UniFi Access critical root/command flaws; article not readable (server error), date and CVEs not confirmed, possibly older story; no exploitation reported in search",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/adex-report-device-targeted-ios-attacks-drive-20-of-advertiser-suspensions-50-accounts-tied-to-one-coruna-campaign/",
+   "title": "ADEX Report: Device-Targeted iOS Attacks Drive 20% of Advertiser Suspensions, 50 Accounts Tied to One Coruna Campaign",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Ad-fraud/malvertising report; not read; date not shown",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+   "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "SBC Medical Group breach (now >2M); same incident logged 21 Nov",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+   "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "European Commission AI-assisted cyberattack disrupted services (20 Nov); no CVE; not read",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+   "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Ruby2Shell GHSA-34m4-m9fh-gqp5; covered by TA19112026.05; no new info seen",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+   "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Third-party vendor breach (Chase/Visa/Mastercard); same incident logged 21 Nov",
+   "logged_at": "2026-11-24T13:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
+   "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Funding news",
+   "logged_at": "2026-11-24T13:03+05:30"
   }
  ],
  "ids": {
@@ -4598,6 +4807,6 @@
   "21112026": 3,
   "22112026": 2,
   "23112026": 2,
-  "24112026": 2
+  "24112026": 4
  }
 }
