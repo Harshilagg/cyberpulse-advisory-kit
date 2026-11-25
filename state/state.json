@@ -5335,6 +5335,116 @@
    "priority": "Low",
    "note": "Consumer privacy; found via search; not read",
    "logged_at": "2026-11-25T15:05+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+   "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Hex.pm CVE-2026-129514 (CVSS 10) unauth RCE exploited 23 Nov on 6 registry servers; hashes/2FA secrets/signing key possibly exposed; no package tampering; also ash CVE-2026-124283, db_connection CVE-2026-133555, flop CVE-2026-130411; found via search (homepages not fetchable)",
+   "advisory_id": "TA25112026.06",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-breach-hex-pm-package-registry/",
+   "title": "Hackers Breach Hex.pm Package Registry, Potentially Exposing Password Hashes and 2FA Secrets",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Hex.pm CVE-2026-129514; same incident",
+   "advisory_id": "TA25112026.06",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+   "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Com-affiliated vishing to hijack cloud accounts for data theft/extortion; not read",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+   "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Six backdoored WP Connect plugin releases blocked before going live; no CVE; not read",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+   "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "OpenAI GPT-6 Cyber product news",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Drupal CVE-2026-132165 exploited; covered by TA25112026.02; no new info seen; not read",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+   "title": "Hackers reportedly breached CIA intelligence analysis system",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same CIA unclassified system breach (logged earlier); not read",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Turnitin cyberattack affecting customer-facing systems; details not read",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
+   "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same Turnitin incident",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/",
+   "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "KEV roundup CVE-2026-132165/CVE-2026-131914/CVE-2026-132224; covered by TA25112026.02/.03, Optimizely logged; no new info",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/malicious-ads-hijack-iphones/",
+   "title": "Hackers Use Malicious Ads to Hijack iPhones and Steal Cryptocurrency Wallet Data",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Malvertising targeting iPhones to steal crypto wallet data; date not confirmed; not read",
+   "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/jailbroken-ai-enables-breach/",
+   "title": "Low-Skilled Hacker Uses Jailbroken AI Agent to Steal Insurance Data and 8.6GB of Government Files",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Jailbroken AI agent used to steal insurance data and 8.6GB government files; not read",
+   "logged_at": "2026-11-25T17:02+05:30"
   }
  ],
  "ids": {
@@ -5348,6 +5458,6 @@
   "22112026": 2,
   "23112026": 2,
   "24112026": 5,
-  "25112026": 5
+  "25112026": 6
  }
 }
