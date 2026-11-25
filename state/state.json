@@ -4869,6 +4869,126 @@
    "priority": "Low",
    "note": "KB5132043 hotpatch printing issue with Forcepoint; operational, not security",
    "logged_at": "2026-11-24T15:02+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-132224",
+   "title": "Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-132224 Optimizely Web Experimentation signup flaw KEV added 24 Nov (due 27 Nov); same supply-chain skimmer incident logged since 17 Nov with no advisory_id; not drafted, mentioned",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-131914",
+   "title": "Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-131914 Idunno.AntiCsrf KEV added 24 Nov (due 27 Nov); follow-up to TA23112026.02",
+   "advisory_id": "TA25112026.03",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-132165",
+   "title": "Drupal Core Remote Code Execution Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-132165 Drupal installer RCE KEV added 24 Nov (due 27 Nov); exploited since 19 Nov, Drupal risk 20/25; follow-up to TA19112026.07",
+   "advisory_id": "TA25112026.02",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+   "title": "Hackers compromise Check Point Servers in 22 organizations",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "GreyNoise GT13: 24 Check Point Security Management servers at 22 orgs/17 countries (incl. India) compromised 17 Oct-2 Nov; CVE-2026-16232 SmartConsole auth bypass used; BC article not readable, drafted from BreachNews summary of GreyNoise; found via search (homepages not fetchable)",
+   "advisory_id": "TA25112026.01",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+   "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "Azure APIM Classic flaw (no CVE); covered by TA24112026.05; no new info seen (fix already known)",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities/",
+   "title": "Hackers Exploit PHP2Shell Vulnerabilities to Gain Root Access on 25 Servers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "PHP2Shell CVE-2026-109618/CVE-2026-109619; covered by TA13112026.01; date not confirmed, article not read; no new info seen",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/asp-net-remote-code-execution-flaw/",
+   "title": "Hackers Actively Exploit ASP.NET Remote Code Execution Flaw to Target Vulnerable Web Applications",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Idunno.AntiCsrf CVE-2026-131914; covered by TA23112026.02 / TA25112026.03; no new info seen",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits",
+   "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Shirudo defensive tool news; not an incident",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/exploit-android-camera-sensors-eavesdrop/",
+   "title": "Hackers Could Exploit Android Camera Sensors to Eavesdrop Even With Privacy Switches Turned Off",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Android camera-sensor eavesdropping research; no CVE confirmed; date not confirmed",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-exploit-papercut-ng-mf-flaws/",
+   "title": "Hackers Exploit PaperCut NG/MF Flaws to Steal Credentials and Deploy Meterpreter",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "PaperCut CVE-2026-81578/CVE-2026-82078 exploitation (bulletin 24 Sep 2026); likely older story, date not confirmed; not triaged further",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-exploit-windows-shell-zero-day/",
+   "title": "Hackers Exploit Windows Shell Zero-Day to Bypass Mark of the Web Security Protection",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Windows Shell CVE-2026-96951 MotW zero-day from Nov Patch Tuesday; older than 2 days; not triaged",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-exploit-wsus-vulnerability-to-steal-sensitive-organizational-data/",
+   "title": "Hackers Exploit WSUS Vulnerability to Steal Sensitive Organizational Data",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "WSUS exploitation story; date not confirmed, likely older; not read",
+   "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-exploit-cve-2026-41940/",
+   "title": "Hackers Exploit CVE-2026-41940 to Take Over cPanel and WHM Servers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "cPanel CVE-2026-41940 (Apr/May 2026); older story; not triaged",
+   "logged_at": "2026-11-25T11:04+05:30"
   }
  ],
  "ids": {
@@ -4881,6 +5001,7 @@
   "21112026": 3,
   "22112026": 2,
   "23112026": 2,
-  "24112026": 5
+  "24112026": 5,
+  "25112026": 3
  }
 }
