@@ -4989,6 +4989,297 @@
    "priority": "Low",
    "note": "cPanel CVE-2026-41940 (Apr/May 2026); older story; not triaged",
    "logged_at": "2026-11-25T11:04+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+   "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Check Point: Iran-aligned Volant Manticore (ex-MuddyWater) KuboShell IPFS backdoor, Homa C2; Cyprus telecom/airlines, Saudi healthcare",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+   "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "VMSA-2026-0011: vCenter CVE-2026-123903 (9.8) auth bypass, ESX CVE-2026-123910/123911 (9.8), CVE-2026-123912; not exploited",
+   "advisory_id": "TA25112026.05",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+   "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Okta: ShinyHunters-associated vishing group linked to INCEPTION leak site; not read",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+   "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Research: .NET single-bit change bypassed Windows Code Integrity; not read",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+   "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "WHMCS CVE-2026-82981 unauth SQLi (8.7), CVE-2026-82979, CVE-2026-93700; fixed 9.0.10/8.13.8/9.1.2; not exploited",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+   "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "OpenAI/Cisco Shirudo Linux tool; product news",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/ai-driven-linux-backdoors-persist/",
+   "title": "AI-Driven Cyberattacks Now Deploy Persistent Linux Backdoors That Can Survive System Restarts",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "AI-driven Linux backdoor persistence research; not read",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/eviltokens-phishing-targets-enterprises/",
+   "title": "EvilTokens Device-Code Phishing Continues on New Infrastructure, Threatening Corporate Email Accounts",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "EvilTokens (Storm-2992) device-code phishing continues on new infra after Sept takedown (VMRay)",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/anthropic-launches-claude-ship-ai-agents/",
+   "title": "Anthropic Launches Claude Ship AI Agents to Automatically Review, Fix, and Approve Code Changes",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Product news",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-openssh-flaw/",
+   "title": "Critical OpenSSH Flaw Lets Hackers Bypass Password Authentication on Alpine Linux With 257-Byte Password",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "OpenSSH SSHole CVE-2026-123158 (Alpine/musl); already baseline/KEV 9 Nov; no new info",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-chrome-security-flaw/",
+   "title": "Critical Chrome Security Flaw Lets Attackers Escape Browser Sandbox Through Malicious Webpages",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Chrome CVE-2026-134401 critical Variations flaw; fixed 158.0.8127.88/.89; not exploited",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/formbook-malware-campaign-eu-businesses/",
+   "title": "Formbook Attacks EU Manufacturing and Technology Businesses: From Phishing to Credential Theft",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Formbook EU phishing (ANY.RUN, possibly sponsored)",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/steal-names-email-addresses-european-commission/",
+   "title": "Hackers Steal Names and Email Addresses in AI-Powered Cyberattack on European Commission Website",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "European Commission website breach, names/emails stolen",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/wordpress-7-1-5-fixes-20-security-flaws/",
+   "title": "WordPress 7.1.5 Fixes 20 Security Flaws, Including Unauthenticated RCE and Privilege Escalation",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "WordPress 7.1.5 (18 Nov) 20 fixes incl unauth privesc; older than 2 days; no CVEs/exploitation stated",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-spied-on-bulgaria/",
+   "title": "Hackers Spy on Bulgarian Government for Five Years, Stealing Millions of Sensitive Documents",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Five-year espionage against Bulgarian government; not read",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/wordpress-hosts-13-clickfix-traps/",
+   "title": "Hackers Plant 13 ClickFix Traps on WordPress Site to Trick Visitors Into Running Malware",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "ClickFix lures on WordPress site",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-breach-kpmg-canada/",
+   "title": "Hackers Breach KPMG Canada and Access Confidential Client Tax Documents",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "KPMG Canada breach, client tax documents; not read",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/n-able-confirms-cyberattack-2/",
+   "title": "N-able Confirms Cyberattack on Mail Assure and SpamExperts Cloud, Disables Management Access",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "N-able Mail Assure breach / CVE-2026-134624; covered by TA24112026.01; no new info seen",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+   "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "PAN-OS CVE-2026-46300 Fragnesia exploited (chained after PHP2Shell CVE-2026-109618/109619); PAN-SA-2026-0015 fixes 24 Nov; follow-up to TA13112026.01",
+   "advisory_id": "TA25112026.04",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
+   "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Drupal CVE-2026-132165 exploited/KEV; covered by TA25112026.02; no new info",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+   "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Unclassified CIA system breached (AP); not read",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+   "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Same VMSA-2026-0011 (CVE-2026-123903, 123910-123912)",
+   "advisory_id": "TA25112026.05",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+   "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same European Commission breach",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+   "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "Check Point SMS compromise (CVE-2026-16232); covered by TA25112026.01; no new info",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+   "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Product news",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+   "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Same Shirudo product news",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+   "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "KEPCO data breach, 1.5M impacted",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+   "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Elecbrakes Bluetooth trailer brake flaws",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+   "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Peninsula Energy cyber incident at US uranium mine; not read",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+   "title": "phpAfterShell Vulnerability Revives PHP2Shell's Attack Path",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "phpAfterShell CVE-2026-126714; covered by TA20112026.02; no new info",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
+   "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Dragos research on AI inference providers (OpenRouter story, logged 24 Nov)",
+   "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
+   "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "M&A news",
+   "logged_at": "2026-11-25T14:55+05:30"
   }
  ],
  "ids": {
@@ -5002,6 +5293,6 @@
   "22112026": 2,
   "23112026": 2,
   "24112026": 5,
-  "25112026": 3
+  "25112026": 5
  }
 }
