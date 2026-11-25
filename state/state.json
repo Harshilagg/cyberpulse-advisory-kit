@@ -5280,6 +5280,61 @@
    "priority": "Low",
    "note": "M&A news",
    "logged_at": "2026-11-25T14:55+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-vmware-vcenter-flaw/",
+   "title": "Critical VMware vCenter Flaw Could Let Hackers Bypass Authentication and Gain Unauthorized Access to Servers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "VMSA-2026-0011 CVE-2026-123903 etc.; same incident; found via search (homepage not fetchable)",
+   "advisory_id": "TA25112026.05",
+   "logged_at": "2026-11-25T15:05+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
+   "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Idunno.AntiCsrf CVE-2026-131914; covered by TA23112026.02/TA25112026.03; no new info seen; found via search",
+   "logged_at": "2026-11-25T15:05+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+   "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Critical",
+   "note": "GT13 Check Point SMS campaign; covered by TA25112026.01; found via search; not read",
+   "logged_at": "2026-11-25T15:05+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+   "title": "Microsoft confirms authentication issues after November updates",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Windows Nov updates auth issues (known issue, not a vuln); found via search; date not confirmed; not read",
+   "logged_at": "2026-11-25T15:05+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/signed-malware-hijacks-sessions/",
+   "title": "Hackers Use Digitally Signed Malware Components to Steal Passwords and Hijack Browser Sessions",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Signed infostealer components; found via search; date not confirmed; not read",
+   "logged_at": "2026-11-25T15:05+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hisense-smart-tvs-users-watch-sending-audio-data/",
+   "title": "Hisense Smart TVs Found Tracking What Users Watch and Sending Audio Data to Advertising Company",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Consumer privacy; found via search; not read",
+   "logged_at": "2026-11-25T15:05+05:30"
   }
  ],
  "ids": {
