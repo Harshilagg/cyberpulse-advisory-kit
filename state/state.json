@@ -5445,6 +5445,79 @@
    "priority": "Medium",
    "note": "Jailbroken AI agent used to steal insurance data and 8.6GB government files; not read",
    "logged_at": "2026-11-25T17:02+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "title": "Radware discloses breach exposing customer cloud access keys",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Radware Cloud WAF unauthenticated internal mgmt API exposed 19 Nov; customer AWS S3/Azure Blob/SFTP log-export keys stolen; no CVE",
+   "advisory_id": "TA25112026.07",
+   "logged_at": "2026-11-25T18:58+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "title": "Rackspace shuts down Spot cloud platform after security breach",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "High",
+   "note": "Rackspace Spot shut down after breach; already covered by TA22112026.01, no new IOCs/CVE; not redrafted",
+   "logged_at": "2026-11-25T18:58+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "title": "New Inception extortion gang launches large-scale vishing campaign",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Inception (ShinyHunters-linked) vishing/extortion; same as Okta item logged earlier; article not readable",
+   "logged_at": "2026-11-25T18:58+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+   "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "ShinyHunters claims return after arrests; no CVE",
+   "logged_at": "2026-11-25T18:58+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+   "title": "European Commission confirms data theft in EU Academy breach",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same European Commission breach already logged",
+   "logged_at": "2026-11-25T18:58+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+   "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Piracy takedown; not a threat",
+   "logged_at": "2026-11-25T18:58+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+   "title": "McDonald's Japan data breach exposes customer location information",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "McDonald's Japan customer location data breach; no CVE",
+   "logged_at": "2026-11-25T18:58+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+   "title": "South Korea's power giant KEPCO confirms data breach impacting 1.5 million",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same KEPCO breach already logged",
+   "logged_at": "2026-11-25T18:58+05:30"
   }
  ],
  "ids": {
@@ -5458,6 +5531,6 @@
   "22112026": 2,
   "23112026": 2,
   "24112026": 5,
-  "25112026": 6
+  "25112026": 7
  }
 }
