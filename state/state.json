@@ -5709,6 +5709,178 @@
    "priority": "Low",
    "note": "BeyondTrust CVE-2026-102764 zero-day (vCenter chain); covered by TA20112026.01; older; found via search",
    "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+   "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "GeoServer CVE-2026-120705 (8.6 file read) / CVE-2026-129243 (8.8 authz) exploited per watchTowr 25 Nov; chain with CVE-2026-129245/120704/129242; fixed 3.0.2/2.28.6/2.27.7",
+   "advisory_id": "TA26112026.03",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+   "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "13 malicious NuGet packages via fake .NET job assessments; developer-targeted supply chain; no CVE; not read",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+   "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "FinCEN intrusion, systems taken offline; no CVE; not read",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+   "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Drupal CVE-2026-132165 Fail2Install exploit details; covered by TA25112026.02; no material new info judged from headline",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+   "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Insider/legal story; not a cyber threat to clients",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/adobe-critical-security-flaws/",
+   "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "APSB26-194 Campaign Classic + APSB26-104 AEM, 18 CVEs (e.g. CVE-2026-125676, CVE-2026-123266); Priority 2, no exploitation",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/vinci-rat-threatens-windows/",
+   "title": "Vinci RAT Could Put Windows Users at Risk of Unauthorized Remote Access",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Vinci RAT Windows malware; not read",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/iran-linked-hackers-target-airlines-hospitals/",
+   "title": "Iran-Linked Hackers Target Airlines and Hospitals With Malware That Can Remotely Control Computers",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Likely Volant Manticore KuboShell (logged 25 Nov); not read",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+   "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Serv-U 2026.4 (24 Nov) fixes 18 flaws, 9.1 critical e.g. CVE-2026-82322, CVE-2026-123172; need admin privileges; no exploitation/PoC",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/exploit-roundcube-webmail-vulnerabilities/",
+   "title": "Hackers Could Exploit Roundcube Webmail Vulnerabilities to Execute Malicious Code on Servers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Roundcube 1.6.22/1.7.7 (23 Nov) fix 12 issues; no CVEs listed; no exploitation",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/rogue-wordpress-plugin-targets-visitors/",
+   "title": "Hackers Hide Malicious Plugin in WordPress Sites to Target Unsuspecting Visitors",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Rogue WordPress plugin targeting visitors; no CVE; not read",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/ai-agents-steal-credentials/",
+   "title": "Hackers Use Autonomous AI Agents to Steal Credentials and Take Over Corporate Systems",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "AI-agent-driven credential theft campaign; not read",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/",
+   "title": "Critical N-able Mail Assure SSRF Vulnerability Exposes Internal Systems to Attackers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "N-able Mail Assure CVE-2026-134624; covered by TA24112026.01; no new info seen",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hijacked-tv-boxes-fuel-ad-fraud/",
+   "title": "Hackers Turn Infected TV Boxes Into World's Largest Disclosed Ad Fraud Operation, Generating 40 Billion Daily Bids",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Infected TV box ad-fraud botnet; consumer devices",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/china-linked-hackers-exploit-zero-day/",
+   "title": "China-Linked Hackers Use AI-Discovered Zero-Day to Take Full Control of University Server",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "MONAI Label CVE-2026-133968 / GHSA-qc22-rmgc-vg94 Cairn zero-day (23 Nov story); covered by TA21112026.03/TA24112026.02",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "bleepingcomputer:laliga-data-breach",
+   "title": "LaLiga discloses data breach exposing user and affiliated-club personal information",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "LaLiga data breach; BC homepage gave no URLs, title paraphrased",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "bleepingcomputer:globetopper-cyberattack",
+   "title": "Cyberattack on B2B top-up provider GlobeTopper causes about $2.5 million lost revenue",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "GlobeTopper cyberattack, ~$70k gift cards redeemed; BC homepage gave no URLs, title paraphrased",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "bleepingcomputer:peruvian-call-center-sentenced",
+   "title": "Peruvian call center operator sentenced to eight years for government-impersonation fraud",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Law enforcement/sentencing; BC URL not captured",
+   "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "bleepingcomputer:windows-bluetooth-audio-issue",
+   "title": "Microsoft working on Windows Bluetooth headphone audio quality issue",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Operational bug, not security; BC URL not captured",
+   "logged_at": "2026-11-26T13:06+05:30"
   }
  ],
  "ids": {
@@ -5723,6 +5895,6 @@
   "23112026": 2,
   "24112026": 5,
   "25112026": 7,
-  "26112026": 2
+  "26112026": 3
  }
 }
