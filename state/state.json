@@ -5881,6 +5881,24 @@
    "priority": "Low",
    "note": "Operational bug, not security; BC URL not captured",
    "logged_at": "2026-11-26T13:06+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+   "title": "Credential Remediation Is Slow When You Don't Know What Will Break",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Vendor-style opinion piece on credential remediation; no incident, no CVE",
+   "logged_at": "2026-11-26T14:59+05:30"
+  },
+  {
+   "url": "bleepingcomputer:signal-screenshot-ai-protections",
+   "title": "Signal adds screenshot blocking on iOS 27 and blocks AI assistants from capturing chats on Android",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Signal privacy feature announcement; no vulnerability, no CVE; BC homepage gave no URLs, title paraphrased",
+   "logged_at": "2026-11-26T14:59+05:30"
   }
  ],
  "ids": {
