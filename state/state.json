@@ -5518,6 +5518,197 @@
    "priority": "Medium",
    "note": "Same KEPCO breach already logged",
    "logged_at": "2026-11-25T18:58+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-103406",
+   "title": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-133469",
+   "title": "Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-133469 Vates Xen Orchestra KEV added 2026-11-25 (follow-up to TA13112026.02, CVE now assigned to VSA-2026-062)",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2025-41450",
+   "title": "Danfoss AK-SM 800A Series Improper Authentication Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2025-41450 Danfoss AK-SM 800A Series KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2023-25914",
+   "title": "Danfoss AK-SM 800A Series Path Traversal Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2023-25914 Danfoss AK-SM 800A Series KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2023-25915",
+   "title": "Danfoss AK-SM 800A Series Improper Input Validation Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2023-25915 Danfoss AK-SM 800A Series KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-133324",
+   "title": "Mitel MiCollab Not Failing Securely Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-133324 Mitel MiCollab KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-133275",
+   "title": "Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-133275 Mitel MiCollab KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-133311",
+   "title": "Mitel MiCollab Weak Authentication Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-133311 Mitel MiCollab KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-133303",
+   "title": "Mitel MiCollab XML Injection Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-133303 Mitel MiCollab KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-133323",
+   "title": "Mitel MiCollab OS Command Injection Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-133323 Mitel MiCollab KEV added 2026-11-25",
+   "advisory_id": "TA26112026.01",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+   "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "High",
+   "note": "1Password breach via employee GitHub account (19 Nov, disclosed 25 Nov): CI/CD access, malicious backend code, account data stolen; vaults not accessed; no CVE; found via search (homepages not fetched)",
+   "advisory_id": "TA26112026.02",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+   "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Eclypsium InfraTrust Nov report (bundled component flaws incl. PHP2Shell CVE-2026-109618/109619 covered by TA13112026.01); sponsored-style report, no new incident; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Qubole cross-account AWS access abuse (Wiz); published ~9 Nov, older than 2 days; not triaged; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "PAN-OS CVE-2026-46300 Fragnesia exploited; covered by TA25112026.04; no new info seen; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/exploit-palo-alto-networks-firewall/",
+   "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "PAN-OS CVE-2026-46300 Fragnesia exploited; covered by TA25112026.04; no new info seen; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities-2/",
+   "title": "Hackers Exploit PHP2Shell Vulnerabilities to Gain Root Access to Palo Alto Firewalls Using Fragnesia",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "PHP2Shell CVE-2026-109618/109619 + Fragnesia CVE-2026-46300; covered by TA25112026.04; no new info seen; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-drupal-vulnerability/",
+   "title": "Hackers Exploit Critical Drupal Vulnerability to Hijack Websites Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Drupal CVE-2026-132165 exploited; covered by TA25112026.02; no new info seen; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
+   "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Citrix NetScaler zero-day story (CVE-2026-88771/88772 era, ~Sep 2026); older than 2 days; not triaged; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+   "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "WordPress core CVE-2026-119977 exploitation; older story, already logged 14 Nov; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+   "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "BeyondTrust CVE-2026-102764 zero-day (vCenter chain); covered by TA20112026.01; older; found via search",
+   "logged_at": "2026-11-26T11:04+05:30"
   }
  ],
  "ids": {
@@ -5531,6 +5722,7 @@
   "22112026": 2,
   "23112026": 2,
   "24112026": 5,
-  "25112026": 7
+  "25112026": 7,
+  "26112026": 2
  }
 }
