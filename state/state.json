@@ -5935,6 +5935,62 @@
    "priority": "Low",
    "note": "Microsoft 365 Office apps blank-dialog bug fixed; operational, not security",
    "logged_at": "2026-11-26T17:04+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+   "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Drupal CVE-2026-136716 (SA-CORE-2026-019, 25 Nov) installer access bypass/site takeover, 21/25, exploited; fixed 10.6.23/11.3.23/11.4.14; follow-on to CVE-2026-132165; found via search (homepages not fetched)",
+   "advisory_id": "TA27112026.01",
+   "logged_at": "2026-11-27T11:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/",
+   "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Drupal CVE-2026-136716 exploited; same incident as THN; found via search",
+   "advisory_id": "TA27112026.01",
+   "logged_at": "2026-11-27T11:01+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+   "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Juniper SSR/Conductor CVE-2026-103406 exploited (KEV 25 Nov); covered by TA26112026.01; headline only, no new info judged; found via search",
+   "logged_at": "2026-11-27T11:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-danfoss-flaw/",
+   "title": "Hackers Could Exploit Critical Danfoss Flaw to Execute Malicious Code on Refrigeration Controllers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Danfoss refrigeration controller flaw (likely CVE-2026-129713, no known exploitation, logged 26 Nov); KEV Danfoss CVEs covered by TA26112026.01; found via search",
+   "logged_at": "2026-11-27T11:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+   "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Remus infostealer silently installs fake Google Sheets Chrome extension to read Gmail and codes; claimed Gmail zero-day is not one; no CVE; found via search",
+   "logged_at": "2026-11-27T11:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Not a security incident; no CVE; found via search",
+   "logged_at": "2026-11-27T11:01+05:30"
   }
  ],
  "ids": {
@@ -5949,6 +6005,7 @@
   "23112026": 2,
   "24112026": 5,
   "25112026": 7,
-  "26112026": 3
+  "26112026": 3,
+  "27112026": 1
  }
 }
