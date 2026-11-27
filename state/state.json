@@ -6067,6 +6067,60 @@
    "priority": "Low",
    "note": "GitHub CVE-2026-3854 RCE via git push, fixed Apr 2026; older than 2 days; found via search",
    "logged_at": "2026-11-27T15:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+   "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Vendor-style opinion piece; no incident, no CVE; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-27T19:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+   "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+   "source": "THN",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Cacti 1.2.31 4HTTP2ROOT zero-day (no CVE); covered by TA27112026.02; headline shows no new info (no CVE/exploitation); found via search",
+   "logged_at": "2026-11-27T19:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+   "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+   "source": "THN",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "AhnLab ASEC (27 Nov): official SoftwareOK Q-Dir 12.83-12.85 / DesktopOK 12.82, 12.85 installers and updates trojanized with Python RAT (dsv2), Edge-named scheduled task; no CVE, scale not disclosed, unattributed; niche freeware so Medium - upgrade if wider impact emerges",
+   "logged_at": "2026-11-27T19:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+   "title": "Drupal warns of new site takeover flaw exploited in attacks",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "Drupal CVE-2026-136716 (SA-CORE-2026-019) exploited; covered by TA27112026.01; no new info seen; found via search",
+   "logged_at": "2026-11-27T19:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+   "title": "Microsoft removes WSUS server role in Windows Server 2028",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Product roadmap news; not a security incident; no CVE",
+   "logged_at": "2026-11-27T19:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+   "title": "SAP confirms security incident after suspicious GitHub activity",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "High",
+   "note": "SAP dev infrastructure/GitHub breach (no CVE); covered by TA27112026.05; headline only, no new info judged; found via search",
+   "logged_at": "2026-11-27T19:01+05:30"
   }
  ],
  "ids": {
