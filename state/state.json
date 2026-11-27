@@ -6020,6 +6020,53 @@
    "priority": "Medium",
    "note": "Swiss NCSC: 5 AI-agent attack cases (4 successful, 2 critical infrastructure), no actor/CVE named; follows Italy/Switzerland warning logged 26 Nov; found via search",
    "logged_at": "2026-11-27T13:03+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+   "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "High",
+   "advisory_id": "TA27112026.04",
+   "note": "Linux kernel nfsd NFS2ROOT CVE-2026-99362 (CVSS 9.8, unauth remote root, NFSv4.1/4.2, TCP 2049, since 3.16); fixed 6.12.117/6.18.61/7.3.2 etc.; no public PoC or ITW exploitation; RHEL no errata yet; found via search (homepages not fetchable)",
+   "logged_at": "2026-11-27T15:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+   "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "High",
+   "advisory_id": "TA27112026.05",
+   "note": "SAP dev infrastructure breach via stolen employee tokens, GitHub code copied/altered (Der Spiegel 26 Nov); no customer data evidence; signing keys replaced; no CVE; found via search",
+   "logged_at": "2026-11-27T15:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+   "title": "Hex Package Manager Warns of Potential Data Breach",
+   "source": "SecurityWeek",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Hex.pm CVE-2026-129514 breach; covered by TA25112026.06; headline only, no new info judged; found via search",
+   "logged_at": "2026-11-27T15:03+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+   "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "OOB hotpatch for Windows Server 2025 crashes; operational, not security; no CVE; found via search",
+   "logged_at": "2026-11-27T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-github-flaw/",
+   "title": "Critical GitHub Flaw Could Let Hackers Execute Malicious Code and Access Millions of Private Repositories",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "GitHub CVE-2026-3854 RCE via git push, fixed Apr 2026; older than 2 days; found via search",
+   "logged_at": "2026-11-27T15:03+05:30"
   }
  ],
  "ids": {
@@ -6035,6 +6082,6 @@
   "24112026": 5,
   "25112026": 7,
   "26112026": 3,
-  "27112026": 3
+  "27112026": 5
  }
 }
