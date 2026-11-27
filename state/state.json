@@ -5991,6 +5991,35 @@
    "priority": "Low",
    "note": "Not a security incident; no CVE; found via search",
    "logged_at": "2026-11-27T11:01+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-cacti-zero-day/",
+   "title": "Critical Cacti Zero-Day Could Let Hackers Take Over Network Monitoring Servers Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Cacti 1.2.31 4HTTP2ROOT unpatched zero-day (no CVE; Previdian VULN-2026-0010), guest-access second-order SQLi to poller RCE, public PoC 26 Nov, no ITW exploitation; found via search (homepages not fetched)",
+   "advisory_id": "TA27112026.02",
+   "logged_at": "2026-11-27T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+   "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "High",
+   "note": "DPRK PolinRider worm, 7,609 GitHub repos/2,330 accounts (Apiiro), new Python loader (SafeDep), Ethereum NullReceiver C2; no CVE; found via search",
+   "advisory_id": "TA27112026.03",
+   "logged_at": "2026-11-27T13:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+   "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Swiss NCSC: 5 AI-agent attack cases (4 successful, 2 critical infrastructure), no actor/CVE named; follows Italy/Switzerland warning logged 26 Nov; found via search",
+   "logged_at": "2026-11-27T13:03+05:30"
   }
  ],
  "ids": {
@@ -6006,6 +6035,6 @@
   "24112026": 5,
   "25112026": 7,
   "26112026": 3,
-  "27112026": 1
+  "27112026": 3
  }
 }
