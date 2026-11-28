@@ -6332,6 +6332,33 @@
    "priority": "Medium",
    "note": "Same pCloud Pass breach logged 28 Nov (email exposure, login attempts); no CVE; found via search",
    "logged_at": "2026-11-28T16:59+05:30"
+  },
+  {
+   "url": "https://securityweek.com/100000-potentially-impacted-by-colorado-data-breach",
+   "title": "100,000 Potentially Impacted by Colorado Data Breach",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Colorado data breach, ~100,000 potentially impacted; no CVE; headline only, found via search (homepages not fetchable)",
+   "logged_at": "2026-11-28T19:00+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+   "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Law enforcement/extradition over university supercomputer cryptomining hacks; no CVE; found via search",
+   "logged_at": "2026-11-28T19:00+05:30"
+  },
+  {
+   "url": "https://securityweek.com/1password-breach-exposes-customer-data-internal-source-code",
+   "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "High",
+   "note": "1Password GitHub account breach (no CVE); covered by TA26112026.02; source-code theft already reported by THN; no new info judged; found via search",
+   "logged_at": "2026-11-28T19:00+05:30"
   }
  ],
  "ids": {
