@@ -6178,6 +6178,124 @@
    "priority": "Low",
    "note": "Consumer game launcher supply-chain compromise (active since Oct, story from early Nov); no CVE; found via search",
    "logged_at": "2026-11-28T11:01+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+   "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Critical",
+   "advisory_id": "TA28112026.02",
+   "note": "Mitel MiCollab AWV CVE-2026-133275/133303/133311/133323/133324 exploited pre-patch (15 Nov web shell), Accenture APEX Labs IOCs (204.76.203.204/.216), 2nd victim, AD compromise, suspected AI API use, extortion; follow-up to TA26112026.01",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+   "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "pCloud Pass breach: user email addresses exposed, suspicious login attempts; no CVE; headline via search",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/pcloud-pass-confirms-cyberattack/",
+   "title": "pCloud Pass Confirms Cyberattack Exposing User Email Addresses and Triggering Suspicious Login Alerts",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same pCloud Pass incident as THN; no CVE",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-breach-industrial-refrigeration-systems/",
+   "title": "Hackers Breach Industrial Refrigeration Systems and Set Freezer Temperatures to 100°C",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Slovenian meat plant (Salamerija Alpija) refrigeration console takeover, setpoints to 100C, disclosed 26 Nov; vendor, CVE, access method and attribution not disclosed; OT, single victim",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/12-year-old-linux-kernel-vulnerability-allows-remote-root-access-without-authentication/",
+   "title": "12-Year-Old Linux Kernel Vulnerability Allows Remote Root Access Without Authentication",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "Likely NFS2ROOT CVE-2026-99362; covered by TA27112026.04; headline only, no new info judged",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/hackers-breach-boston-voice-phishing-attack/",
+   "title": "Hackers Breach Boston Scientific Through Voice Phishing Attack, Stealing Sensitive Data",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Boston Scientific data breach via vishing; no CVE; headline only via search",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-erlang-otp-vulnerability/",
+   "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Medium",
+   "note": "Erlang/OTP ssl TLS 1.2 client skips server auth CVE-2026-124286 (CVSS 9.1); no exploitation reported; headline via search",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/telegram-warns-iphone-users-update-ios/",
+   "title": "Telegram Warns iPhone Users to Update iOS as Security Flaws Put Personal Data at Risk",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Consumer advisory to update iOS; no CVE stated in headline",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/critical-geoserver-flaws/",
+   "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+   "source": "CyberPress",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "GeoServer CVE-2026-120705/129243 chain; covered by TA26112026.03/TA28112026.01; no new info judged",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+   "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "SYS010 infostealer abuses browser management policies to force-install extensions, reads Gmail/Outlook, targets Meta accounts; no CVE; headline via search",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+   "title": "Binance denies data breach after alleged ShinyHunters claims",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Unverified ShinyHunters claim, Binance denies; no CVE",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5055518-update-fixes-random-text-when-printing/",
+   "title": "Windows 10 KB5055518 update fixes random text when printing",
+   "source": "BleepingComputer",
+   "type": "Vulnerability",
+   "priority": "Low",
+   "note": "Old (2025) printing bug fix; not security; older than 2 days",
+   "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+   "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Weekly news roundup; no single incident",
+   "logged_at": "2026-11-28T15:03+05:30"
   }
  ],
  "ids": {
@@ -6194,6 +6312,6 @@
   "25112026": 7,
   "26112026": 3,
   "27112026": 5,
-  "28112026": 1
+  "28112026": 2
  }
 }
