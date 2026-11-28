@@ -6121,6 +6121,63 @@
    "priority": "High",
    "note": "SAP dev infrastructure/GitHub breach (no CVE); covered by TA27112026.05; headline only, no new info judged; found via search",
    "logged_at": "2026-11-27T19:01+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-120705",
+   "title": "OSGeo GeoServer XML Injection Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-120705 GeoServer WFS GetFeatureById XML injection KEV added 27 Nov (due 30 Nov); follow-up to TA26112026.03",
+   "advisory_id": "TA28112026.01",
+   "logged_at": "2026-11-28T11:01+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-129243",
+   "title": "OSGeo GeoServer Incorrect Authorization Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "High",
+   "note": "CVE-2026-129243 GeoServer service-level authz bypass KEV added 27 Nov (due 30 Nov); follow-up to TA26112026.03",
+   "advisory_id": "TA28112026.01",
+   "logged_at": "2026-11-28T11:01+05:30"
+  },
+  {
+   "url": "kev:CVE-2026-136716",
+   "title": "Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability",
+   "source": "CISA KEV",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "CVE-2026-136716 Drupal installer takeover KEV added 27 Nov (due 30 Nov, forensic triage required); follow-up to TA27112026.01",
+   "advisory_id": "TA28112026.01",
+   "logged_at": "2026-11-28T11:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+   "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+   "source": "The Hacker News",
+   "type": "Vulnerability",
+   "priority": "Critical",
+   "note": "KEV 25 Nov roundup (Mitel MiCollab, Juniper CVE-2026-103406, Xen Orchestra CVE-2026-133469, Danfoss); covered by TA26112026.01; no new info judged from headline; found via search",
+   "logged_at": "2026-11-28T11:01+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+   "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Regional espionage campaign, Southeast Asia; no CVE; headline only, found via search",
+   "logged_at": "2026-11-28T11:01+05:30"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+   "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Low",
+   "note": "Consumer game launcher supply-chain compromise (active since Oct, story from early Nov); no CVE; found via search",
+   "logged_at": "2026-11-28T11:01+05:30"
   }
  ],
  "ids": {
@@ -6136,6 +6193,7 @@
   "24112026": 5,
   "25112026": 7,
   "26112026": 3,
-  "27112026": 5
+  "27112026": 5,
+  "28112026": 1
  }
 }
