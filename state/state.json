@@ -6296,6 +6296,42 @@
    "priority": "Low",
    "note": "Weekly news roundup; no single incident",
    "logged_at": "2026-11-28T15:03+05:30"
+  },
+  {
+   "url": "https://cyberpress.org/octopus-confirms-data-breach/",
+   "title": "Octopus Confirms Data Breach Affecting 7,500 Customers and 22,000 Merchants",
+   "source": "CyberPress",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Octopus data breach, 7,500 customers / 22,000 merchants; no CVE; headline only, found via search (homepages not fetchable)",
+   "logged_at": "2026-11-28T16:59+05:30"
+  },
+  {
+   "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+   "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+   "source": "The Hacker News",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Vinci RAT delivered via Microsoft Store app (Vinci RAT logged 26 Nov); no CVE; headline only, found via search",
+   "logged_at": "2026-11-28T16:59+05:30"
+  },
+  {
+   "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+   "title": "FinCEN Cyber Incident Leads to Temporary Service Disruptions",
+   "source": "SecurityWeek",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "FinCEN intrusion, systems offline; same incident logged 26 Nov; no CVE; found via search",
+   "logged_at": "2026-11-28T16:59+05:30"
+  },
+  {
+   "url": "https://bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts",
+   "title": "pCloud confirms password manager hack after suspicious login alerts",
+   "source": "BleepingComputer",
+   "type": "Threat",
+   "priority": "Medium",
+   "note": "Same pCloud Pass breach logged 28 Nov (email exposure, login attempts); no CVE; found via search",
+   "logged_at": "2026-11-28T16:59+05:30"
   }
  ],
  "ids": {
